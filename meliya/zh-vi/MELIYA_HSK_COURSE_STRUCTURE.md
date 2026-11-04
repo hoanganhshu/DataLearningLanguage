@@ -45,4 +45,6 @@ HSK 2 starts from `drafts/hsk2_category_catalog.json`: 16 categories, a 500–59
 
 HSK 3 starts from `drafts/hsk3_category_catalog.json`: 20 categories, a 650–760 new-word budget, and the same 6-unit / 21-activity rhythm. HSK 1–2 vocabulary remains review-only.
 
+HSK 4 starts from `drafts/hsk4_category_catalog.json`: 22 advanced communication categories, a 680–790 new-word budget, and the same 6-unit / 21-activity rhythm. HSK 1–3 vocabulary remains review-only.
+
 The earlier `drafts/course_blueprint.json` is an exploratory topic list only. This document overrides it for hierarchy and level assignment; a new HSK-level category catalog will replace that exploratory list before any curriculum import.

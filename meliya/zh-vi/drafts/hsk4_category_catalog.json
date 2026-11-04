@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 4,
+  "intent": "Chuyển từ giao tiếp tình huống sang diễn đạt tương đối độc lập: giải thích, thương lượng, kể trải nghiệm, bàn lựa chọn và xử lý vấn đề. Không cần bao phủ toàn bộ 972 từ HSK 4.",
+  "targetUniqueNewVocabulary": { "min": 680, "max": 790 },
+  "unitPattern": [
+    { "type": "VOCABULARY", "activityCount": 4 },
+    { "type": "GRAMMAR", "activityCount": 3 },
+    { "type": "READING", "activityCount": 4 },
+    { "type": "LISTENING", "activityCount": 4 },
+    { "type": "SPEAKING", "activityCount": 3 },
+    { "type": "APPLICATION", "activityCount": 3 }
+  ],
+  "categories": [
+    { "key": "hsk4-c01-personal-growth", "position": 1, "title": "Bản thân, giá trị và thay đổi cá nhân" },
+    { "key": "hsk4-c02-relationships", "position": 2, "title": "Quan hệ, giao tiếp và ranh giới" },
+    { "key": "hsk4-c03-family-generations", "position": 3, "title": "Gia đình, trách nhiệm và các thế hệ" },
+    { "key": "hsk4-c04-home-community", "position": 4, "title": "Nhà ở, cộng đồng và chất lượng sống" },
+    { "key": "hsk4-c05-services", "position": 5, "title": "Ăn uống, dịch vụ và trải nghiệm khách hàng" },
+    { "key": "hsk4-c06-finance", "position": 6, "title": "Tài chính cá nhân và quyết định mua sắm" },
+    { "key": "hsk4-c07-city-mobility", "position": 7, "title": "Thành phố, giao thông và không gian công cộng" },
+    { "key": "hsk4-c08-travel", "position": 8, "title": "Du lịch, văn hóa địa phương và sự cố hành trình" },
+    { "key": "hsk4-c09-career", "position": 9, "title": "Công việc, năng lực và phát triển nghề nghiệp" },
+    { "key": "hsk4-c10-study", "position": 10, "title": "Học tập, nghiên cứu và phương pháp làm việc" },
+    { "key": "hsk4-c11-health", "position": 11, "title": "Sức khỏe, chăm sóc và lối sống" },
+    { "key": "hsk4-c12-environment", "position": 12, "title": "Môi trường, thời tiết và thế giới tự nhiên" },
+    { "key": "hsk4-c13-technology", "position": 13, "title": "Công nghệ, truyền thông và thông tin" },
+    { "key": "hsk4-c14-culture", "position": 14, "title": "Văn hóa, nghệ thuật và giải trí" },
+    { "key": "hsk4-c15-sports", "position": 15, "title": "Thể thao, cạnh tranh và tinh thần đồng đội" },
+    { "key": "hsk4-c16-emotions", "position": 16, "title": "Cảm xúc, thái độ và đồng cảm" },
+    { "key": "hsk4-c17-opinions", "position": 17, "title": "Quan điểm, lập luận và thuyết phục" },
+    { "key": "hsk4-c18-planning", "position": 18, "title": "Kế hoạch, rủi ro và ra quyết định" },
+    { "key": "hsk4-c19-problem-solving", "position": 19, "title": "Vấn đề, thương lượng và giải pháp" },
+    { "key": "hsk4-c20-society", "position": 20, "title": "Xã hội, quy tắc và trách nhiệm công dân" },
+    { "key": "hsk4-c21-narratives", "position": 21, "title": "Kể chuyện, tin tức và trải nghiệm đáng nhớ" },
+    { "key": "hsk4-c22-future", "position": 22, "title": "Mục tiêu dài hạn, thành tựu và tương lai" }
+  ],
+  "editorialNotes": [
+    "22 category x 21 activity = 462 activity khi HSK 4 hoàn chỉnh.",
+    "Danh sách category là khung biên tập; mỗi category sẽ được gán key ổn định, caption và candidate words thủ công ở bước tiếp theo.",
+    "Từ HSK 1–3 là review words; chỉ từ nguồn exclusive HSK 4 được tính là new vocabulary."
+  ]
+}
