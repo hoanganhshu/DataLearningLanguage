@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "c02-daily-people",
+  "unitKey": "c02-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": {
+    "countRule": "Use course.vocabularyPacing by target HSK level and captionComplexity; all selections are manual.",
+    "selectionMode": "MANUAL_EDITORIAL",
+    "lookupRule": "Resolve to dictionary_words by simplified word plus pinyin after editorial approval.",
+    "newWordCount": 40
+  },
+  "activities": [
+    {
+      "key": "c02-u01-a01-family",
+      "position": 1,
+      "caption": "Gia đình của tôi",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
+      "communicationOutcome": "Giới thiệu những thành viên cơ bản trong gia đình.",
+      "candidates": [
+        { "word": "家", "pinyin": "jiā", "vi": "nhà; gia đình" },
+        { "word": "爸爸", "pinyin": "bà ba", "vi": "bố" },
+        { "word": "妈妈", "pinyin": "mā ma", "vi": "mẹ" },
+        { "word": "哥哥", "pinyin": "gē ge", "vi": "anh trai" },
+        { "word": "姐姐", "pinyin": "jiějie", "vi": "chị gái" },
+        { "word": "弟弟", "pinyin": "dì di", "vi": "em trai" },
+        { "word": "妹妹", "pinyin": "mèi mei", "vi": "em gái" },
+        { "word": "儿子", "pinyin": "ér zi", "vi": "con trai" },
+        { "word": "女儿", "pinyin": "nǚ'ér", "vi": "con gái" },
+        { "word": "孩子", "pinyin": "hái zi", "vi": "đứa trẻ; con cái" }
+      ]
+    },
+    {
+      "key": "c02-u01-a02-daily-time",
+      "position": 2,
+      "caption": "Một ngày của tôi",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
+      "communicationOutcome": "Nói các mốc thời gian quen thuộc trong một ngày.",
+      "candidates": [
+        { "word": "今天", "pinyin": "jīntiān", "vi": "hôm nay" },
+        { "word": "明天", "pinyin": "míng tiān", "vi": "ngày mai" },
+        { "word": "昨天", "pinyin": "zuó tiān", "vi": "hôm qua" },
+        { "word": "现在", "pinyin": "xiàn zài", "vi": "bây giờ" },
+        { "word": "早上", "pinyin": "zǎo shang", "vi": "buổi sáng" },
+        { "word": "上午", "pinyin": "shàng wǔ", "vi": "buổi sáng" },
+        { "word": "中午", "pinyin": "zhōng wǔ", "vi": "buổi trưa" },
+        { "word": "下午", "pinyin": "xià wǔ", "vi": "buổi chiều" },
+        { "word": "晚上", "pinyin": "wǎn shang", "vi": "buổi tối" },
+        { "word": "时候", "pinyin": "shí hou", "vi": "thời điểm; lúc" }
+      ]
+    },
+    {
+      "key": "c02-u01-a03-study-and-work",
+      "position": 3,
+      "caption": "Học tập và công việc",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
+      "communicationOutcome": "Nói đơn giản về việc học, đi làm và đồ dùng hằng ngày.",
+      "candidates": [
+        { "word": "学习", "pinyin": "xué xí", "vi": "học tập" },
+        { "word": "写", "pinyin": "xiě", "vi": "viết" },
+        { "word": "读", "pinyin": "dú", "vi": "đọc" },
+        { "word": "书", "pinyin": "shū", "vi": "sách" },
+        { "word": "电脑", "pinyin": "diàn nǎo", "vi": "máy tính" },
+        { "word": "手机", "pinyin": "shǒu jī", "vi": "điện thoại" },
+        { "word": "去", "pinyin": "qù", "vi": "đi" },
+        { "word": "来", "pinyin": "lái", "vi": "đến" },
+        { "word": "回", "pinyin": "huí", "vi": "trở về" },
+        { "word": "做", "pinyin": "zuò", "vi": "làm" }
+      ]
+    },
+    {
+      "key": "c02-u01-a04-routines-and-interests",
+      "position": 4,
+      "caption": "Việc thường ngày và sở thích",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
+      "communicationOutcome": "Mô tả ngắn gọn hoạt động thường ngày và sở thích giải trí.",
+      "candidates": [
+        { "word": "起床", "pinyin": "qǐ chuáng", "vi": "thức dậy" },
+        { "word": "睡觉", "pinyin": "shuì jiào", "vi": "ngủ" },
+        { "word": "吃饭", "pinyin": "chī fàn", "vi": "ăn cơm; ăn" },
+        { "word": "看", "pinyin": "kàn", "vi": "xem; đọc" },
+        { "word": "听", "pinyin": "tīng", "vi": "nghe" },
+        { "word": "电影", "pinyin": "diàn yǐng", "vi": "phim" },
+        { "word": "电视", "pinyin": "diàn shì", "vi": "tivi" },
+        { "word": "买", "pinyin": "mǎi", "vi": "mua" },
+        { "word": "爱", "pinyin": "ài", "vi": "yêu; thích" },
+        { "word": "下班", "pinyin": "xià bān", "vi": "tan làm" }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Tất cả candidates đã được chọn thủ công theo caption và kiểm tra tồn tại trong local HSK 3.0 level 1 mapping.",
+    "Không lặp lại từ mới từ Category 1; từ đã học chỉ được dùng sau này với vai trò review trong câu mẫu hoặc activity khác.",
+    "Chưa gắn dictionary_word_id để tránh chọn nhầm nghĩa/pinyin đồng hình. ID sẽ được resolve sau khi duyệt danh sách này."
+  ]
+}
