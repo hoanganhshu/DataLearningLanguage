@@ -14,7 +14,7 @@
     { "type": "APPLICATION", "activityCount": 3 }
   ],
   "categories": [
-    { "key": "hsk4-c01-personal-growth", "position": 1, "title": "Bản thân, giá trị và thay đổi cá nhân" },
+    { "key": "hsk4-c01-personal-growth", "position": 1, "title": "Bản thân, giá trị và thay đổi cá nhân", "vocabularyDraft": "hsk4_c01_coverage_candidates.json" },
     { "key": "hsk4-c02-relationships", "position": 2, "title": "Quan hệ, giao tiếp và ranh giới" },
     { "key": "hsk4-c03-family-generations", "position": 3, "title": "Gia đình, trách nhiệm và các thế hệ" },
     { "key": "hsk4-c04-home-community", "position": 4, "title": "Nhà ở, cộng đồng và chất lượng sống" },
