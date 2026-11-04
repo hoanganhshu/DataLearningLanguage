@@ -9,7 +9,7 @@
     { "type": "VOCABULARY", "activityCount": 4 }, { "type": "GRAMMAR", "activityCount": 3 }, { "type": "READING", "activityCount": 4 }, { "type": "LISTENING", "activityCount": 4 }, { "type": "SPEAKING", "activityCount": 3 }, { "type": "APPLICATION", "activityCount": 3 }
   ],
   "categories": [
-    { "key": "hsk5-c01-identity", "position": 1, "title": "Bản sắc, giá trị và phát triển cá nhân" },
+    { "key": "hsk5-c01-identity", "position": 1, "title": "Bản sắc, giá trị và phát triển cá nhân", "vocabularyDraft": "hsk5_c01_coverage_candidates.json" },
     { "key": "hsk5-c02-relationships", "position": 2, "title": "Quan hệ, giao tiếp và xung đột" },
     { "key": "hsk5-c03-family", "position": 3, "title": "Gia đình, trách nhiệm và lựa chọn cuộc sống" },
     { "key": "hsk5-c04-home", "position": 4, "title": "Nhà ở, đô thị hóa và chất lượng sống" },
