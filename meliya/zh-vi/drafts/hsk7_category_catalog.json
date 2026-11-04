@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "status": "VOCABULARY_SELECTION_DONE_PENDING_ACTIVITY_AUTHORING",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 7,
+  "sourceLevel": "7_9_combined_exclusive",
+  "intent": "Giao tiếp nâng cao trong đời sống, công việc và các chủ đề xã hội quen thuộc.",
+  "categories": [
+    {"key":"hsk7-c01-identity","title":"Bản thân và giá trị cá nhân"},{"key":"hsk7-c02-relationships","title":"Quan hệ và ứng xử"},{"key":"hsk7-c03-home","title":"Nhà ở và sinh hoạt"},{"key":"hsk7-c04-consumption","title":"Tiêu dùng và dịch vụ"},{"key":"hsk7-c05-mobility","title":"Di chuyển và giao thông"},{"key":"hsk7-c06-travel","title":"Du lịch và trải nghiệm"},{"key":"hsk7-c07-work","title":"Công việc và nghề nghiệp"},{"key":"hsk7-c08-learning","title":"Học tập và kỹ năng"},{"key":"hsk7-c09-health","title":"Sức khỏe và chăm sóc"},{"key":"hsk7-c10-environment","title":"Môi trường và đời sống"},{"key":"hsk7-c11-technology","title":"Công nghệ và thiết bị"},{"key":"hsk7-c12-media","title":"Truyền thông và thông tin"},{"key":"hsk7-c13-culture","title":"Văn hóa và lễ nghi"},{"key":"hsk7-c14-arts","title":"Nghệ thuật và giải trí"},{"key":"hsk7-c15-sports","title":"Thể thao và thi đấu"},{"key":"hsk7-c16-emotions","title":"Cảm xúc và tâm lý"},{"key":"hsk7-c17-discussion","title":"Trao đổi và quan điểm"},{"key":"hsk7-c18-planning","title":"Kế hoạch và thực hiện"}
+  ],
+  "editorialNotes": ["Nguồn HSK 3.0 hiện gộp HSK 7–9 trong wordlists/exclusive/new/7.json.","Phân tầng 7–9 là editorial mapping của Meliya; không diễn giải là cấp chính thức riêng trong source."]
+}
