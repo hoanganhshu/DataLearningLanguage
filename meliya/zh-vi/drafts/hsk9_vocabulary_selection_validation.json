@@ -4,6 +4,6 @@
   "hskStandard": "HSK_3_0",
   "hskLevel": 9,
   "source": "wordlists/exclusive/new/7.json",
-  "summary": {"categoriesCompleted": 18,"candidateKeysUnique": 18,"candidateWordReferences": 180,"missingSourceMappings": 0,"duplicateCategoryKeys": 0,"selectionFiles":["hsk9_vocabulary_candidates.json"]},
+  "summary": {"categoriesCompleted":21,"explicitCandidateKeysUnique":18,"explicitCandidateWordReferences":180,"missingSourceMappings":0,"duplicateCategoryKeys":0,"sourceResolvedAssignment":"hsk7_9_full_source_assignment.json","selectionFiles":["hsk9_vocabulary_candidates.json"]},
   "nextStep": "Biên soạn candidate thành activity theo caption; bổ sung pinyin, nghĩa Việt, câu ví dụ, audio và rubric hội thoại trước import."
 }

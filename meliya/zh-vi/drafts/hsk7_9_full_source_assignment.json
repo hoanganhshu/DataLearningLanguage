@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "SOURCE_RESOLVED_ASSIGNMENT",
+  "source": "wordlists/exclusive/new/7.json",
+  "sourceUniqueWordCount": 5606,
+  "deduplication": "Giữ entry có frequency nhỏ nhất cho mỗi simplified word.",
+  "explicitCandidateFiles": ["hsk7_vocabulary_candidates.json","hsk8_vocabulary_candidates.json","hsk9_vocabulary_candidates.json"],
+  "assignmentOrder": ["explicitCandidateFiles", "frequencyBandAndPosFallback"],
+  "frequencyBands": [
+    {"level":7,"rankStart":1,"rankEnd":1870},{"level":8,"rankStart":1871,"rankEnd":3737},{"level":9,"rankStart":3738,"rankEnd":5606}
+  ],
+  "fallbackCategories": {
+    "nounLike":"hsk{level}-c19-lexical-nouns",
+    "verbLike":"hsk{level}-c20-lexical-verbs",
+    "other":"hsk{level}-c21-lexical-modifiers"
+  },
+  "posClassification": {
+    "nounLike":"pos contains n, ng, nr, ns, nt or nz",
+    "verbLike":"pos contains v or vn",
+    "other":"all remaining parts of speech and entries without POS"
+  },
+  "auditScript":"meliya/zh-vi/scripts/Resolve-Hsk7To9FullAssignment.ps1",
+  "nextStep":"Khi biên soạn lesson, tách fallback lexical categories thành các activity/caption nhỏ hơn theo nghĩa tiếng Anh; không loại bỏ source word khỏi manifest."
+}
