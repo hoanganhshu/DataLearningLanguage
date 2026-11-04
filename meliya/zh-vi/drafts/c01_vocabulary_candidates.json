@@ -45,7 +45,7 @@
       "communicationOutcome": "Nói rằng bạn vui khi được làm quen với một người bạn.",
       "candidates": [
         { "word": "朋友", "pinyin": "péng you", "vi": "bạn bè" },
-        { "word": "认识", "pinyin": "rèn shi", "dictionaryPinyin": "rènshi", "vi": "quen biết; làm quen" },
+        { "word": "认识", "pinyin": "rènshi", "vi": "quen biết; làm quen" },
         { "word": "高兴", "pinyin": "gāo xìng", "vi": "vui" },
         { "word": "很", "pinyin": "hěn", "vi": "rất" },
         { "word": "也", "pinyin": "yě", "vi": "cũng" }
@@ -68,7 +68,6 @@
   "editorialNotes": [
     "Tất cả candidates đã kiểm tra tồn tại trong local HSK 3.0 level 1 mapping.",
     "Cụm giao tiếp như 你好 sẽ được dùng trong câu mẫu/SPEAKING; HSK source tách thành các word component nên không xem đó là một vocabulary entry độc lập ở draft này.",
-    "Chưa gắn dictionary_word_id để tránh chọn nhầm nghĩa/pinyin đồng hình. ID sẽ được resolve sau khi duyệt danh sách này.",
-    "dictionaryPinyin chỉ xuất hiện khi dictionary local và nguồn HSK khác cách tách âm tiết."
+    "Chưa gắn dictionary_word_id để tránh chọn nhầm nghĩa/pinyin đồng hình. ID sẽ được resolve sau khi duyệt danh sách này."
   ]
 }
