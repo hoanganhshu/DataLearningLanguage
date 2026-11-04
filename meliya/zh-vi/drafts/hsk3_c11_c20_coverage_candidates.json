@@ -1,0 +1,15 @@
+{
+  "schemaVersion":1,"status":"CATEGORY_SELECTION_DONE","targetHskLevels":[3],
+  "categories":[
+    {"key":"hsk3-c11-sports-and-wellbeing","words":["比赛","金牌","跑步","球迷","教练","队员","决赛","排名","体会","力量","积极","坚持"]},
+    {"key":"hsk3-c12-media-and-technology","words":["互联网","机器","计算","记录","记者","广播","播出","播放","电视台","电子邮件","录音","科技"]},
+    {"key":"hsk3-c13-art-culture-and-events","words":["话剧","京剧","美术","观众","观看","剧场","乐队","歌手","导演","表演","创作","纪念"]},
+    {"key":"hsk3-c14-emotions-and-social-skills","words":["害怕","好奇","欢乐","乐观","紧张","恐怕","内心","情感","感情","热烈","亲切","坚强"]},
+    {"key":"hsk3-c15-opinions-and-discussion","words":["观念","客观","理论","判断","批评","评价","比较","强调","明确","合理","表达","表明"]},
+    {"key":"hsk3-c16-plans-and-decisions","words":["安排","采取","采用","决定","确定","目标","将来","决心","发展","建立","建设","开展"]},
+    {"key":"hsk3-c17-problems-and-solutions","words":["麻烦","困难","克服","解决","破坏","缺点","取消","防止","处理","缺少","改进","调整"]},
+    {"key":"hsk3-c18-society-and-public-life","words":["公民","公务员","公开","规定","规范","合法","和平","民族","民间","人民","公共","部门"]},
+    {"key":"hsk3-c19-narratives-and-memories","words":["报道","报告","记者","过程","经历","后果","发生","传说","据说","记录","当初","从前"]},
+    {"key":"hsk3-c20-goals-and-future","words":["成功","成就","进步","进一步","创新","创业","将来","决心","成长","达到","发展","目标"]}
+  ]
+}

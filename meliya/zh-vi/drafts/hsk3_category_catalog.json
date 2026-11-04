@@ -37,7 +37,7 @@
   ],
   "editorialNotes": [
     "20 category x 21 activity = 420 activity khi HSK 3 hoàn chỉnh.",
-    "Chỉ các từ được chọn thủ công, kiểm tra mapping HSK 3 và duyệt ngữ cảnh mới được import.",
+    "C01-C10 có file candidate riêng; C11-C20 có candidate coverage trong drafts/hsk3_c11_c20_coverage_candidates.json. Tất cả phải qua validation nguồn HSK 3 trước import.",
     "Từ HSK 1-2 trong lesson HSK 3 là review words, không tính vào ngân sách từ mới."
   ]
 }
