@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 3,
+  "intent": "Mở rộng từ giao tiếp quen thuộc sang xử lý tình huống, kể chuyện ngắn, nêu quan điểm và giải thích lý do. Không cần bao phủ toàn bộ 953 từ HSK 3.",
+  "targetUniqueNewVocabulary": { "min": 650, "max": 760 },
+  "unitPattern": [
+    { "type": "VOCABULARY", "activityCount": 4 },
+    { "type": "GRAMMAR", "activityCount": 3 },
+    { "type": "READING", "activityCount": 4 },
+    { "type": "LISTENING", "activityCount": 4 },
+    { "type": "SPEAKING", "activityCount": 3 },
+    { "type": "APPLICATION", "activityCount": 3 }
+  ],
+  "categories": [
+    { "key": "hsk3-c01-identity-and-life-story", "title": "Bản thân, trải nghiệm và câu chuyện đời sống", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c02-family-and-relationships", "title": "Gia đình, quan hệ và giao tiếp thân mật", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c03-home-and-daily-management", "title": "Nhà ở, sinh hoạt và xử lý việc thường ngày", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c04-food-and-consumer-services", "title": "Ăn uống, mua sắm và dịch vụ", "targetNewVocabulary": { "min": 34, "max": 40 } },
+    { "key": "hsk3-c05-city-navigation", "title": "Thành phố, chỉ đường và không gian công cộng", "targetNewVocabulary": { "min": 34, "max": 40 } },
+    { "key": "hsk3-c06-travel-and-accommodation", "title": "Du lịch, chỗ ở và hành trình", "targetNewVocabulary": { "min": 36, "max": 42 } },
+    { "key": "hsk3-c07-workplace-collaboration", "title": "Công việc, văn phòng và phối hợp", "targetNewVocabulary": { "min": 36, "max": 42 } },
+    { "key": "hsk3-c08-study-and-skills", "title": "Học tập, kỹ năng và kết quả", "targetNewVocabulary": { "min": 36, "max": 42 } },
+    { "key": "hsk3-c09-health-and-emergencies", "title": "Sức khỏe, thăm khám và tình huống khẩn", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c10-weather-and-environment", "title": "Thời tiết, môi trường và thiên nhiên", "targetNewVocabulary": { "min": 28, "max": 34 } },
+    { "key": "hsk3-c11-sports-and-wellbeing", "title": "Thể thao, sức khỏe tinh thần và thói quen", "targetNewVocabulary": { "min": 30, "max": 36 } },
+    { "key": "hsk3-c12-media-and-technology", "title": "Truyền thông, Internet và công nghệ", "targetNewVocabulary": { "min": 34, "max": 40 } },
+    { "key": "hsk3-c13-art-culture-and-events", "title": "Văn hóa, nghệ thuật và sự kiện", "targetNewVocabulary": { "min": 30, "max": 36 } },
+    { "key": "hsk3-c14-emotions-and-social-skills", "title": "Cảm xúc, thái độ và kỹ năng xã hội", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c15-opinions-and-discussion", "title": "Ý kiến, so sánh và thảo luận", "targetNewVocabulary": { "min": 36, "max": 42 } },
+    { "key": "hsk3-c16-plans-and-decisions", "title": "Kế hoạch, lựa chọn và quyết định", "targetNewVocabulary": { "min": 34, "max": 40 } },
+    { "key": "hsk3-c17-problems-and-solutions", "title": "Vấn đề, giải pháp và yêu cầu hỗ trợ", "targetNewVocabulary": { "min": 34, "max": 40 } },
+    { "key": "hsk3-c18-society-and-public-life", "title": "Xã hội, quy tắc và đời sống công cộng", "targetNewVocabulary": { "min": 30, "max": 36 } },
+    { "key": "hsk3-c19-narratives-and-memories", "title": "Kể chuyện, ký ức và sự kiện đã qua", "targetNewVocabulary": { "min": 32, "max": 38 } },
+    { "key": "hsk3-c20-goals-and-future", "title": "Mục tiêu, thay đổi và tương lai", "targetNewVocabulary": { "min": 34, "max": 40 } }
+  ],
+  "editorialNotes": [
+    "20 category x 21 activity = 420 activity khi HSK 3 hoàn chỉnh.",
+    "Chỉ các từ được chọn thủ công, kiểm tra mapping HSK 3 và duyệt ngữ cảnh mới được import.",
+    "Từ HSK 1-2 trong lesson HSK 3 là review words, không tính vào ngân sách từ mới."
+  ]
+}
