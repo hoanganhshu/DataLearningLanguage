@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "course": {
+    "key": "zh-vi-conversation",
+    "sourceLanguage": "zh-CN",
+    "nativeLanguage": "vi",
+    "title": "Tiếng Trung giao tiếp",
+    "description": "Lộ trình tiếng Trung cho người Việt, ưu tiên giao tiếp cùng avatar.",
+    "unitPattern": ["VOCABULARY", "GRAMMAR", "READING", "LISTENING", "SPEAKING", "APPLICATION"]
+  },
+  "categories": [
+    {
+      "key": "c01-first-connections",
+      "position": 1,
+      "title": "Làm quen và tự giới thiệu",
+      "targetHskLevels": [1],
+      "communicationGoal": "Chào hỏi, giới thiệu tên, quốc tịch và thông tin cơ bản.",
+      "unitTopics": ["Lời chào và đại từ", "Câu tự giới thiệu", "Đọc lời giới thiệu ngắn", "Nghe hội thoại làm quen", "Nói về bản thân", "Gặp một người bạn mới"]
+    },
+    {
+      "key": "c02-daily-people",
+      "position": 2,
+      "title": "Con người và sinh hoạt hằng ngày",
+      "targetHskLevels": [1],
+      "communicationGoal": "Nói về gia đình, công việc, sở thích và lịch sinh hoạt cơ bản.",
+      "unitTopics": ["Từ vựng gia đình và nghề nghiệp", "Câu có và sở hữu", "Đọc lịch sinh hoạt", "Nghe giới thiệu gia đình", "Nói về một ngày của bạn", "Trò chuyện về người thân"]
+    },
+    {
+      "key": "c03-time-and-plans",
+      "position": 3,
+      "title": "Thời gian và kế hoạch",
+      "targetHskLevels": [1, 2],
+      "communicationGoal": "Hỏi giờ, hẹn lịch và nói về ngày tháng.",
+      "unitTopics": ["Số đếm và thời gian", "Mốc thời gian", "Đọc lịch hẹn", "Nghe hẹn gặp", "Đặt lịch", "Lên kế hoạch cuối tuần"]
+    },
+    {
+      "key": "c04-food-and-service",
+      "position": 4,
+      "title": "Ăn uống và dịch vụ",
+      "targetHskLevels": [1, 2],
+      "communicationGoal": "Gọi món, nói sở thích và trao đổi nhu cầu tại nơi dịch vụ.",
+      "unitTopics": ["Đồ ăn và đồ uống", "Lượng từ và mong muốn", "Đọc thực đơn", "Nghe gọi món", "Gọi món lịch sự", "Xử lý yêu cầu tại quán"]
+    },
+    {
+      "key": "c05-shopping-and-money",
+      "position": 5,
+      "title": "Mua sắm và thanh toán",
+      "targetHskLevels": [2],
+      "communicationGoal": "Hỏi giá, mô tả món cần mua và hoàn tất thanh toán.",
+      "unitTopics": ["Hàng hóa và giá tiền", "Câu hỏi số lượng", "Đọc nhãn và hóa đơn", "Nghe trao đổi mua bán", "Hỏi giá và thương lượng", "Mua một món đồ cần thiết"]
+    },
+    {
+      "key": "c06-travel-and-directions",
+      "position": 6,
+      "title": "Di chuyển và chỉ đường",
+      "targetHskLevels": [2, 3],
+      "communicationGoal": "Hỏi đường, sử dụng phương tiện và xử lý di chuyển hằng ngày.",
+      "unitTopics": ["Địa điểm và phương tiện", "Giới từ vị trí", "Đọc chỉ dẫn", "Nghe hỏi đường", "Hỏi và chỉ đường", "Di chuyển trong thành phố"]
+    },
+    {
+      "key": "c07-home-health-and-help",
+      "position": 7,
+      "title": "Nhà ở, sức khỏe và nhờ giúp đỡ",
+      "targetHskLevels": [2, 3],
+      "communicationGoal": "Mô tả vấn đề, yêu cầu hỗ trợ và giao tiếp trong tình huống cần thiết.",
+      "unitTopics": ["Nhà ở và cơ thể", "Có/không có và mức độ", "Đọc thông báo cơ bản", "Nghe yêu cầu hỗ trợ", "Mô tả vấn đề", "Nhờ giúp đỡ trong tình huống thực tế"]
+    },
+    {
+      "key": "c08-opinions-and-feelings",
+      "position": 8,
+      "title": "Ý kiến, cảm xúc và giao tiếp tự nhiên",
+      "targetHskLevels": [3, 4],
+      "communicationGoal": "Nêu sở thích, cảm xúc, ý kiến và duy trì hội thoại dài hơn.",
+      "unitTopics": ["Cảm xúc và quan điểm", "So sánh và lý do", "Đọc tin nhắn ngắn", "Nghe trao đổi ý kiến", "Nói về sở thích", "Trò chuyện tự nhiên với avatar"]
+    }
+  ]
+}
