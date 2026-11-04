@@ -2,6 +2,8 @@
 
 This repository contains the approved HSK vocabulary source. It is not the production course itself.
 
+The authoritative authored-course hierarchy is documented in `meliya/zh-vi/MELIYA_HSK_COURSE_STRUCTURE.md`.
+
 ## Status
 
 - HSK vocabulary source: approved and imported into Meliya local PostgreSQL as level metadata.
