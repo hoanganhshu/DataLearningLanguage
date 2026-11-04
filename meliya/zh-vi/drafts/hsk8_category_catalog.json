@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "status": "VOCABULARY_SELECTION_DONE_PENDING_ACTIVITY_AUTHORING",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 8,
+  "sourceLevel": "7_9_combined_exclusive",
+  "intent": "Thảo luận phân tích về tổ chức, xã hội, kinh tế, nghiên cứu và các vấn đề công.",
+  "categories": [
+    {"key":"hsk8-c01-law","title":"Luật pháp và xử lý vi phạm"},{"key":"hsk8-c02-governance","title":"Quản trị và chính sách"},{"key":"hsk8-c03-finance","title":"Tài chính và nguồn lực"},{"key":"hsk8-c04-business","title":"Doanh nghiệp và thị trường"},{"key":"hsk8-c05-research","title":"Nghiên cứu và phương pháp"},{"key":"hsk8-c06-science","title":"Khoa học và kỹ thuật"},{"key":"hsk8-c07-digital","title":"Hạ tầng số và truyền thông"},{"key":"hsk8-c08-environment","title":"Khí hậu và tài nguyên"},{"key":"hsk8-c09-health","title":"Y tế và cơ thể"},{"key":"hsk8-c10-society","title":"Đời sống đô thị và xã hội"},{"key":"hsk8-c11-media","title":"Báo chí và công chúng"},{"key":"hsk8-c12-history","title":"Lịch sử và di sản"},{"key":"hsk8-c13-arts","title":"Nghệ thuật và biểu đạt"},{"key":"hsk8-c14-security","title":"An ninh và xung đột"},{"key":"hsk8-c15-strategy","title":"Chiến lược và cải cách"},{"key":"hsk8-c16-academia","title":"Học thuật và đánh giá"},{"key":"hsk8-c17-psychology","title":"Tâm lý và nhận thức"},{"key":"hsk8-c18-public-life","title":"Cộng đồng và không gian công"}
+  ],
+  "editorialNotes": ["Nguồn HSK 3.0 gộp HSK 7–9; HSK 8 là phân tầng editorial của Meliya."]
+}
