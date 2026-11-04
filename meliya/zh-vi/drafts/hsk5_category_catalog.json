@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 5,
+  "intent": "Tập trung năng lực giao tiếp độc lập: diễn giải, phản biện, hợp tác, giải quyết vấn đề phức tạp và trao đổi chuyên môn phổ thông. Không buộc bao phủ toàn bộ 1,059 từ HSK 5.",
+  "targetUniqueNewVocabulary": { "min": 720, "max": 850 },
+  "unitPattern": [
+    { "type": "VOCABULARY", "activityCount": 4 }, { "type": "GRAMMAR", "activityCount": 3 }, { "type": "READING", "activityCount": 4 }, { "type": "LISTENING", "activityCount": 4 }, { "type": "SPEAKING", "activityCount": 3 }, { "type": "APPLICATION", "activityCount": 3 }
+  ],
+  "categories": [
+    { "key": "hsk5-c01-identity", "position": 1, "title": "Bản sắc, giá trị và phát triển cá nhân" },
+    { "key": "hsk5-c02-relationships", "position": 2, "title": "Quan hệ, giao tiếp và xung đột" },
+    { "key": "hsk5-c03-family", "position": 3, "title": "Gia đình, trách nhiệm và lựa chọn cuộc sống" },
+    { "key": "hsk5-c04-home", "position": 4, "title": "Nhà ở, đô thị hóa và chất lượng sống" },
+    { "key": "hsk5-c05-consumption", "position": 5, "title": "Tiêu dùng, dịch vụ và quyền khách hàng" },
+    { "key": "hsk5-c06-finance", "position": 6, "title": "Tài chính cá nhân, kinh tế và rủi ro" },
+    { "key": "hsk5-c07-mobility", "position": 7, "title": "Giao thông, quy hoạch và dịch chuyển" },
+    { "key": "hsk5-c08-travel", "position": 8, "title": "Du lịch, liên văn hóa và trải nghiệm" },
+    { "key": "hsk5-c09-work", "position": 9, "title": "Công việc, lãnh đạo và hợp tác" },
+    { "key": "hsk5-c10-learning", "position": 10, "title": "Học tập, nghiên cứu và tư duy phản biện" },
+    { "key": "hsk5-c11-health", "position": 11, "title": "Sức khỏe, y tế và lối sống" },
+    { "key": "hsk5-c12-environment", "position": 12, "title": "Môi trường, năng lượng và phát triển bền vững" },
+    { "key": "hsk5-c13-technology", "position": 13, "title": "Công nghệ, dữ liệu và đời sống số" },
+    { "key": "hsk5-c14-media", "position": 14, "title": "Truyền thông, thông tin và ảnh hưởng xã hội" },
+    { "key": "hsk5-c15-culture", "position": 15, "title": "Văn hóa, lịch sử và bản sắc cộng đồng" },
+    { "key": "hsk5-c16-arts", "position": 16, "title": "Nghệ thuật, sáng tạo và giải trí" },
+    { "key": "hsk5-c17-sports", "position": 17, "title": "Thể thao, cạnh tranh và thành tích" },
+    { "key": "hsk5-c18-emotions", "position": 18, "title": "Cảm xúc, tâm lý và đồng cảm" },
+    { "key": "hsk5-c19-discussion", "position": 19, "title": "Lập luận, tranh luận và thuyết phục" },
+    { "key": "hsk5-c20-planning", "position": 20, "title": "Chiến lược, kế hoạch và quyết định" },
+    { "key": "hsk5-c21-problems", "position": 21, "title": "Vấn đề, thương lượng và giải pháp" },
+    { "key": "hsk5-c22-society", "position": 22, "title": "Xã hội, chính sách và trách nhiệm công dân" },
+    { "key": "hsk5-c23-narratives", "position": 23, "title": "Tin tức, câu chuyện và góc nhìn đa chiều" },
+    { "key": "hsk5-c24-future", "position": 24, "title": "Mục tiêu, sự nghiệp và tương lai" }
+  ],
+  "editorialNotes": ["24 category x 21 activity = 504 activity khi HSK 5 hoàn chỉnh.", "Từ HSK 1-4 chỉ đóng vai trò review; candidate mới chỉ lấy từ nguồn exclusive HSK 5 sau khi biên tập."]
+}
