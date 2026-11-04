@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "c01-first-connections",
+  "unitKey": "c01-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": {
+    "purpose": "Từ đầu vào cho giao tiếp làm quen; không phải danh sách HSK 1 đầy đủ.",
+    "maxNewWordsPerActivity": 6,
+    "lookupRule": "Resolve to dictionary_words by simplified word plus pinyin after editorial approval."
+  },
+  "activities": [
+    {
+      "key": "c01-u01-a01-greetings",
+      "position": 1,
+      "caption": "Chào hỏi lịch sự",
+      "communicationOutcome": "Chào, cảm ơn và tạm biệt một người mới gặp.",
+      "candidates": [
+        { "word": "你", "pinyin": "nǐ", "vi": "bạn" },
+        { "word": "您", "pinyin": "nín", "vi": "ngài / bạn (lịch sự)" },
+        { "word": "好", "pinyin": "hǎo", "vi": "tốt; khỏe" },
+        { "word": "请", "pinyin": "qǐng", "vi": "mời; xin vui lòng" },
+        { "word": "谢谢", "pinyin": "xiè xie", "vi": "cảm ơn" },
+        { "word": "再见", "pinyin": "zài jiàn", "vi": "tạm biệt" }
+      ]
+    },
+    {
+      "key": "c01-u01-a02-name-and-identity",
+      "position": 2,
+      "caption": "Tên và thông tin cơ bản",
+      "communicationOutcome": "Nói tên của mình và nhận ra cách hỏi tên.",
+      "candidates": [
+        { "word": "我", "pinyin": "wǒ", "vi": "tôi" },
+        { "word": "叫", "pinyin": "jiào", "vi": "gọi là; tên là" },
+        { "word": "名字", "pinyin": "míng zi", "vi": "tên" },
+        { "word": "人", "pinyin": "rén", "vi": "người" },
+        { "word": "中国", "pinyin": "zhōng guó", "vi": "Trung Quốc" }
+      ]
+    },
+    {
+      "key": "c01-u01-a03-new-friends",
+      "position": 3,
+      "caption": "Làm quen với bạn mới",
+      "communicationOutcome": "Nói rằng bạn vui khi được làm quen với một người bạn.",
+      "candidates": [
+        { "word": "朋友", "pinyin": "péng you", "vi": "bạn bè" },
+        { "word": "认识", "pinyin": "rèn shi", "dictionaryPinyin": "rènshi", "vi": "quen biết; làm quen" },
+        { "word": "高兴", "pinyin": "gāo xìng", "vi": "vui" },
+        { "word": "很", "pinyin": "hěn", "vi": "rất" },
+        { "word": "也", "pinyin": "yě", "vi": "cũng" }
+      ]
+    },
+    {
+      "key": "c01-u01-a04-roles",
+      "position": 4,
+      "caption": "Vai trò hằng ngày",
+      "communicationOutcome": "Nói ngắn gọn về việc học hoặc công việc của mình.",
+      "candidates": [
+        { "word": "学生", "pinyin": "xué shēng", "vi": "học sinh; sinh viên" },
+        { "word": "老师", "pinyin": "lǎo shī", "vi": "giáo viên" },
+        { "word": "工作", "pinyin": "gōng zuò", "vi": "công việc; làm việc" },
+        { "word": "是", "pinyin": "shì", "vi": "là" },
+        { "word": "都", "pinyin": "dōu", "vi": "đều; tất cả" }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Tất cả candidates đã kiểm tra tồn tại trong local HSK 3.0 level 1 mapping.",
+    "Cụm giao tiếp như 你好 sẽ được dùng trong câu mẫu/SPEAKING; HSK source tách thành các word component nên không xem đó là một vocabulary entry độc lập ở draft này.",
+    "Chưa gắn dictionary_word_id để tránh chọn nhầm nghĩa/pinyin đồng hình. ID sẽ được resolve sau khi duyệt danh sách này.",
+    "dictionaryPinyin chỉ xuất hiện khi dictionary local và nguồn HSK khác cách tách âm tiết."
+  ]
+}
