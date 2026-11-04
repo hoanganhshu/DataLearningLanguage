@@ -34,5 +34,5 @@
     { "key": "hsk5-c23-narratives", "position": 23, "title": "Tin tức, câu chuyện và góc nhìn đa chiều" },
     { "key": "hsk5-c24-future", "position": 24, "title": "Mục tiêu, sự nghiệp và tương lai" }
   ],
-  "editorialNotes": ["24 category x 21 activity = 504 activity khi HSK 5 hoàn chỉnh.", "Từ HSK 1-4 chỉ đóng vai trò review; candidate mới chỉ lấy từ nguồn exclusive HSK 5 sau khi biên tập."]
+  "editorialNotes": ["24 category x 21 activity = 504 activity khi HSK 5 hoàn chỉnh.", "Candidate coverage đã hoàn tất trong các file hsk5_c01, hsk5_c02_c07, hsk5_c08_c14 và hsk5_c15_c24; validation ở drafts/hsk5_vocabulary_selection_validation.json."]
 }
