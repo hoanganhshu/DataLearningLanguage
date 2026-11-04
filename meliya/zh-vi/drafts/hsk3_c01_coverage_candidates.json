@@ -7,8 +7,8 @@
   "selectionMode": "MANUAL_EDITORIAL",
   "words": [
     "爱心", "本领", "才能", "成长", "成熟", "个人", "个性", "各自",
-    "感情", "感受", "感动", "动人", "本事", "成功", "成果", "成就",
-    "本来", "曾经", "从前", "当初", "从来", "初步", "改变", "变化",
+    "感情", "感受", "感冒", "动人", "本事", "成功", "成果", "成就",
+    "本来", "曾经", "从前", "当初", "从来", "初步", "达到", "变化",
     "表达", "表现", "表明", "保持", "保留", "创造", "创新", "发展"
   ],
   "editorialNotes": ["C01 tập trung kể trải nghiệm cá nhân, điểm mạnh, thay đổi và thành tựu.", "Từ lặp exact word trong file sẽ bị validation chặn trước khi import."]
