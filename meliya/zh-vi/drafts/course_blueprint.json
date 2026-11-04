@@ -7,7 +7,20 @@
     "nativeLanguage": "vi",
     "title": "Tiếng Trung giao tiếp",
     "description": "Lộ trình tiếng Trung cho người Việt, ưu tiên giao tiếp cùng avatar.",
-    "unitPattern": ["VOCABULARY", "GRAMMAR", "READING", "LISTENING", "SPEAKING", "APPLICATION"]
+    "unitPattern": ["VOCABULARY", "GRAMMAR", "READING", "LISTENING", "SPEAKING", "APPLICATION"],
+    "vocabularyPacing": {
+      "selectionMode": "MANUAL_EDITORIAL",
+      "rule": "Counts apply only to new words. Previously learned review words are additional and selected for the communication goal.",
+      "byHighestTargetHskLevel": {
+        "1": { "newWordsPerVocabularyActivity": { "min": 4, "max": 6 }, "newWordsPerVocabularyUnit": { "min": 20, "max": 24 } },
+        "2": { "newWordsPerVocabularyActivity": { "min": 6, "max": 8 }, "newWordsPerVocabularyUnit": { "min": 24, "max": 32 } },
+        "3": { "newWordsPerVocabularyActivity": { "min": 8, "max": 10 }, "newWordsPerVocabularyUnit": { "min": 32, "max": 40 } },
+        "4": { "newWordsPerVocabularyActivity": { "min": 10, "max": 12 }, "newWordsPerVocabularyUnit": { "min": 40, "max": 48 } },
+        "5": { "newWordsPerVocabularyActivity": { "min": 12, "max": 14 }, "newWordsPerVocabularyUnit": { "min": 48, "max": 56 } },
+        "6": { "newWordsPerVocabularyActivity": { "min": 14, "max": 16 }, "newWordsPerVocabularyUnit": { "min": 56, "max": 64 } },
+        "7-9": { "newWordsPerVocabularyActivity": { "min": 16, "max": 20 }, "newWordsPerVocabularyUnit": { "min": 64, "max": 80 } }
+      }
+    }
   },
   "categories": [
     {

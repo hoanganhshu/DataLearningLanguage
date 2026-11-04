@@ -28,7 +28,8 @@ This repository contains the approved HSK vocabulary source. It is not the produ
 ## Content rules
 
 - HSK is used as a difficulty and coverage constraint, not as a pre-made course.
-- New vocabulary in one activity should normally be 4–8 words.
+- New vocabulary is selected manually by the editor according to the target HSK band; it is not a fixed 5-word template.
+- A lower-level word reused for review does not count as a new-word quota.
 - A sentence/activity should use the target HSK band or lower, aside from words introduced by that activity.
 - Grammar notes, Vietnamese explanations, scenarios, avatar prompts and TTS text are authored by Meliya.
 - HSK source and any third-party data retain their attribution/license obligations.
