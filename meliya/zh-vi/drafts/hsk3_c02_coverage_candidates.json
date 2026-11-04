@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "status": "CATEGORY_SELECTION_DONE",
+  "categoryKey": "hsk3-c02-family-and-relationships",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [3],
+  "selectionMode": "MANUAL_EDITORIAL",
+  "words": [
+    "吵", "吵架", "对待", "对方", "对象", "分别", "告别", "关心",
+    "父母", "父亲", "成员", "场合", "保留", "保护", "保证", "场所",
+    "表达", "表明", "表现", "感情", "感受", "不安", "反应", "反对",
+    "支持", "代表", "交流", "代表团", "理解", "访问", "服务员", "房东"
+  ],
+  "editorialNotes": ["Nhóm từ về giao tiếp, mâu thuẫn và quan hệ; validation phải loại từ không nằm trong exclusive HSK 3 trước import."]
+}
