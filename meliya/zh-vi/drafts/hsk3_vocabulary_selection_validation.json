@@ -1,0 +1,9 @@
+{
+  "schemaVersion":1,
+  "status":"VOCABULARY_SELECTED_PENDING_ACTIVITY_AUTHORING",
+  "hskStandard":"HSK_3_0",
+  "hskLevel":3,
+  "source":"wordlists/exclusive/new/3.json",
+  "summary":{"categoriesCompleted":20,"missingSourceMappings":0,"selectionFiles":["hsk3_c01_coverage_candidates.json","hsk3_c02_coverage_candidates.json","hsk3_c03_coverage_candidates.json","hsk3_c04_coverage_candidates.json","hsk3_c05_coverage_candidates.json","hsk3_c06_coverage_candidates.json","hsk3_c07_coverage_candidates.json","hsk3_c08_coverage_candidates.json","hsk3_c09_coverage_candidates.json","hsk3_c10_coverage_candidates.json","hsk3_c11_c20_coverage_candidates.json"]},
+  "nextStep":"Tách candidates theo 4 vocabulary activity/category, thêm pinyin, nghĩa Việt, caption và communicationOutcome trước import."
+}
