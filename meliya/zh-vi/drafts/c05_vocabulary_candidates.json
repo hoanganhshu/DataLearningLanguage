@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c05-home-and-nearby-places",
+  "unitKey": "hsk1-c05-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 32 },
+  "activities": [
+    { "key": "hsk1-c05-u01-a01-home", "position": 1, "caption": "Nhà của tôi", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói về nhà và phòng ở cơ bản.", "candidates": [
+      { "word": "房子", "pinyin": "fáng zi", "vi": "ngôi nhà" }, { "word": "房间", "pinyin": "fáng jiān", "vi": "căn phòng" }, { "word": "床", "pinyin": "chuáng", "vi": "giường" }, { "word": "门", "pinyin": "mén", "vi": "cửa" }, { "word": "桌子", "pinyin": "zhuō zi", "vi": "cái bàn" }, { "word": "家里", "pinyin": "jiā lǐ", "vi": "ở nhà" }, { "word": "在家", "pinyin": "zài jiā", "vi": "ở nhà" }, { "word": "住", "pinyin": "zhù", "vi": "ở; sống" }
+    ] },
+    { "key": "hsk1-c05-u01-a02-building", "position": 2, "caption": "Trong tòa nhà", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Mô tả các vị trí trong tòa nhà.", "candidates": [
+      { "word": "楼", "pinyin": "lóu", "vi": "tòa nhà; tầng" }, { "word": "楼上", "pinyin": "lóu shàng", "vi": "trên tầng" }, { "word": "楼下", "pinyin": "lóu xià", "vi": "dưới tầng" }, { "word": "里边", "pinyin": "lǐ bian", "vi": "bên trong" }, { "word": "外边", "pinyin": "wài bian", "vi": "bên ngoài" }, { "word": "前边", "pinyin": "qián bian", "vi": "phía trước" }, { "word": "后边", "pinyin": "hòu bian", "vi": "phía sau" }, { "word": "中间", "pinyin": "zhōng jiān", "vi": "ở giữa" }
+    ] },
+    { "key": "hsk1-c05-u01-a03-at-home", "position": 3, "caption": "Ở trong nhà", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói thao tác và vị trí quen thuộc trong nhà.", "candidates": [
+      { "word": "地上", "pinyin": "dì shang", "vi": "trên mặt đất" }, { "word": "开", "pinyin": "kāi", "vi": "mở" }, { "word": "打开", "pinyin": "dǎ kāi", "vi": "mở ra" }, { "word": "关上", "pinyin": "guān shàng", "vi": "đóng lại" }, { "word": "干净", "pinyin": "gān jìng", "vi": "sạch" }, { "word": "放", "pinyin": "fàng", "vi": "đặt; để" }, { "word": "旁边", "pinyin": "páng biān", "vi": "bên cạnh" }, { "word": "洗手间", "pinyin": "xǐ shǒu jiān", "vi": "nhà vệ sinh" }
+    ] },
+    { "key": "hsk1-c05-u01-a04-nearby-place", "position": 4, "caption": "Địa điểm gần nhà", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Hỏi hoặc chỉ địa điểm đơn giản gần nhà.", "candidates": [
+      { "word": "地点", "pinyin": "dì diǎn", "vi": "địa điểm" }, { "word": "地方", "pinyin": "dì fang", "vi": "nơi; chỗ" }, { "word": "门口", "pinyin": "mén kǒu", "vi": "cửa ra vào" }, { "word": "这里", "pinyin": "zhè lǐ", "vi": "ở đây" }, { "word": "那里", "pinyin": "nà lǐ", "vi": "ở đó" }, { "word": "哪儿", "pinyin": "nǎr", "vi": "ở đâu" }, { "word": "外", "pinyin": "wài", "vi": "bên ngoài" }, { "word": "里", "pinyin": "lǐ", "vi": "bên trong" }
+    ] }
+  ],
+  "editorialNotes": ["32 từ mới; không trùng exact word với C01-C04.", "Từ chỉ vị trí sẽ được tái dùng ở activity speaking dưới dạng review, không nhập lại là từ mới."]
+}

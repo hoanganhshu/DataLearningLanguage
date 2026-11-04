@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c06-getting-around",
+  "unitKey": "hsk1-c06-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 32 },
+  "activities": [
+    { "key": "hsk1-c06-u01-a01-transport", "position": 1, "caption": "Bạn đi bằng gì?", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Nói phương tiện và điểm khởi hành hoặc đến.", "candidates": [
+      { "word": "车", "pinyin": "chē", "vi": "xe" }, { "word": "汽车", "pinyin": "qì chē", "vi": "ô tô" }, { "word": "火车", "pinyin": "huǒ chē", "vi": "tàu hỏa" }, { "word": "飞机", "pinyin": "fēi jī", "vi": "máy bay" }, { "word": "机场", "pinyin": "jī chǎng", "vi": "sân bay" }, { "word": "车站", "pinyin": "chē zhàn", "vi": "ga; bến xe" }, { "word": "车票", "pinyin": "chē piào", "vi": "vé xe; vé tàu" }, { "word": "机票", "pinyin": "jī piào", "vi": "vé máy bay" }
+    ] },
+    { "key": "hsk1-c06-u01-a02-on-the-road", "position": 2, "caption": "Trên đường đi", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Dùng các từ về lên xe, xuống xe và đường phố.", "candidates": [
+      { "word": "打车", "pinyin": "dǎ chē", "vi": "đi taxi" }, { "word": "开车", "pinyin": "kāi chē", "vi": "lái xe" }, { "word": "上车", "pinyin": "shàng chē", "vi": "lên xe" }, { "word": "下车", "pinyin": "xià chē", "vi": "xuống xe" }, { "word": "路", "pinyin": "lù", "vi": "đường" }, { "word": "马路", "pinyin": "mǎ lù", "vi": "đường phố" }, { "word": "路口", "pinyin": "lù kǒu", "vi": "ngã tư; giao lộ" }, { "word": "地图", "pinyin": "dì tú", "vi": "bản đồ" }
+    ] },
+    { "key": "hsk1-c06-u01-a03-directions", "position": 3, "caption": "Chỉ đường", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Chỉ các hướng cơ bản và khoảng cách.", "candidates": [
+      { "word": "东边", "pinyin": "dōng bian", "vi": "phía đông" }, { "word": "西边", "pinyin": "xī bian", "vi": "phía tây" }, { "word": "南边", "pinyin": "nán bian", "vi": "phía nam" }, { "word": "北边", "pinyin": "běi bian", "vi": "phía bắc" }, { "word": "左边", "pinyin": "zuǒ bian", "vi": "bên trái" }, { "word": "右边", "pinyin": "yòu bian", "vi": "bên phải" }, { "word": "远", "pinyin": "yuǎn", "vi": "xa" }, { "word": "到", "pinyin": "dào", "vi": "đến" }
+    ] },
+    { "key": "hsk1-c06-u01-a04-moving", "position": 4, "caption": "Đi và trở về", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Mô tả di chuyển đơn giản từ nơi này đến nơi khác.", "candidates": [
+      { "word": "走", "pinyin": "zǒu", "vi": "đi bộ; rời đi" }, { "word": "走路", "pinyin": "zǒu lù", "vi": "đi bộ" }, { "word": "车上", "pinyin": "chē shàng", "vi": "trên xe" }, { "word": "来到", "pinyin": "lái dào", "vi": "đến" }, { "word": "出去", "pinyin": "chū qù", "vi": "đi ra ngoài" }, { "word": "回去", "pinyin": "huí qù", "vi": "trở về" }, { "word": "回来", "pinyin": "huí lai", "vi": "quay lại" }, { "word": "进来", "pinyin": "jìn lái", "vi": "đi vào" }
+    ] }
+  ],
+  "editorialNotes": ["32 từ mới; không trùng exact word với C01-C05.", "Các động từ gốc đã học trong C02 chỉ xuất hiện về sau như review, còn cụm động từ ở đây là mục tiêu mới của category."]
+}

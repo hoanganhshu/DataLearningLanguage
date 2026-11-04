@@ -4,7 +4,7 @@
   "hskStandard": "HSK_3_0",
   "hskLevel": 1,
   "intent": "Bao quát phần lớn từ HSK 1 hữu ích cho giao tiếp, nhưng không bắt buộc bao phủ toàn bộ syllabus.",
-  "targetUniqueNewVocabulary": { "min": 350, "max": 430 },
+  "targetUniqueNewVocabulary": { "min": 340, "max": 390 },
   "unitPattern": [
     { "type": "VOCABULARY", "activityCount": 4 },
     { "type": "GRAMMAR", "activityCount": 3 },
@@ -29,7 +29,7 @@
       "title": "Gia đình và sinh hoạt hằng ngày",
       "communicationGoal": "Nói về gia đình, một ngày của bạn, việc học và sở thích cơ bản.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 36, "max": 44 },
+      "targetNewVocabulary": { "min": 30, "max": 34 },
       "vocabularyDraft": "c02_vocabulary_candidates.json"
     },
     {
@@ -38,8 +38,8 @@
       "title": "Thời gian, ngày tháng và lịch hẹn",
       "communicationGoal": "Hỏi giờ, nói ngày tháng và hẹn một thời điểm đơn giản.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 36, "max": 44 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 30, "max": 34 },
+      "vocabularyDraft": "c03_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c04-food-and-drinks",
@@ -48,7 +48,7 @@
       "communicationGoal": "Gọi đồ ăn, đồ uống và nói điều mình thích hoặc không thích.",
       "captionComplexity": "STANDARD",
       "targetNewVocabulary": { "min": 36, "max": 44 },
-      "vocabularyDraft": null
+      "vocabularyDraft": "c04_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c05-home-and-nearby-places",
@@ -56,8 +56,8 @@
       "title": "Nhà ở và địa điểm quen thuộc",
       "communicationGoal": "Nói mình ở đâu và hỏi về các địa điểm quen thuộc gần đó.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 34, "max": 42 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 30, "max": 34 },
+      "vocabularyDraft": "c05_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c06-getting-around",
@@ -65,8 +65,8 @@
       "title": "Di chuyển và chỉ đường đơn giản",
       "communicationGoal": "Hỏi đường, nói đi đến đâu và sử dụng phương tiện cơ bản.",
       "captionComplexity": "COMPLEX",
-      "targetNewVocabulary": { "min": 42, "max": 50 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 30, "max": 34 },
+      "vocabularyDraft": "c06_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c07-shopping-and-prices",
@@ -74,8 +74,8 @@
       "title": "Mua sắm, số lượng và giá tiền",
       "communicationGoal": "Hỏi giá, số lượng và hoàn thành một giao dịch mua đơn giản.",
       "captionComplexity": "COMPLEX",
-      "targetNewVocabulary": { "min": 42, "max": 50 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 30, "max": 34 },
+      "vocabularyDraft": "c07_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c08-school-and-workplace",
@@ -83,8 +83,8 @@
       "title": "Trường học và nơi làm việc",
       "communicationGoal": "Nói về trường, lớp, công việc và các hoạt động cơ bản.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 36, "max": 44 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 30, "max": 34 },
+      "vocabularyDraft": "c08_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c09-health-and-help",
@@ -92,8 +92,8 @@
       "title": "Cơ thể, sức khỏe và nhờ giúp đỡ",
       "communicationGoal": "Nói tình trạng đơn giản, hỏi thăm và yêu cầu hỗ trợ cơ bản.",
       "captionComplexity": "COMPLEX",
-      "targetNewVocabulary": { "min": 40, "max": 48 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 20, "max": 26 },
+      "vocabularyDraft": "c09_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c10-hobbies-and-leisure",
@@ -101,8 +101,8 @@
       "title": "Sở thích và thời gian rảnh",
       "communicationGoal": "Nói sở thích, hoạt động giải trí và lời mời đơn giản.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 34, "max": 42 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 20, "max": 26 },
+      "vocabularyDraft": "c10_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c11-weather-and-plans",
@@ -110,8 +110,8 @@
       "title": "Thời tiết và kế hoạch gần",
       "communicationGoal": "Nói về thời tiết cơ bản và dự định hôm nay hoặc ngày mai.",
       "captionComplexity": "STANDARD",
-      "targetNewVocabulary": { "min": 34, "max": 42 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 18, "max": 24 },
+      "vocabularyDraft": "c11_vocabulary_candidates.json"
     },
     {
       "key": "hsk1-c12-social-chat",
@@ -119,13 +119,13 @@
       "title": "Trò chuyện xã giao hằng ngày",
       "communicationGoal": "Duy trì cuộc nói chuyện ngắn bằng câu hỏi, phản hồi và lời mời quen thuộc.",
       "captionComplexity": "COMPLEX",
-      "targetNewVocabulary": { "min": 40, "max": 48 },
-      "vocabularyDraft": null
+      "targetNewVocabulary": { "min": 22, "max": 28 },
+      "vocabularyDraft": "c12_vocabulary_candidates.json"
     }
   ],
   "editorialNotes": [
     "Mỗi category có 21 activity theo unitPattern, tương đương 252 activity cho HSK 1 khi hoàn chỉnh.",
     "Các target vocabulary range là ngân sách biên soạn, không buộc phải dùng hết và không tính review words.",
-    "C03–C12 phải được chọn word candidates thủ công, kiểm tra HSK mapping và duyệt trước khi import."
+    "C01–C12 đã có word candidates thủ công; phải duyệt nội dung, resolve dictionary_word_id và xác nhận nghĩa trước khi import."
   ]
 }

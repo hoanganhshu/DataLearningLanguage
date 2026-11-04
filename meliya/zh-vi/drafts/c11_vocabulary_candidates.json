@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c11-weather-and-plans",
+  "unitKey": "hsk1-c11-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 20, "reviewWordPolicy": "Weather dialogues intentionally review time words from C03 and direction words from C06." },
+  "activities": [
+    { "key": "hsk1-c11-u01-a01-weather", "position": 1, "caption": "Thời tiết hôm nay", "captionComplexity": "STANDARD", "expectedNewWordCount": 5, "communicationOutcome": "Nói về thời tiết bằng câu rất ngắn.", "candidates": [
+      { "word": "天气", "pinyin": "tiān qì", "vi": "thời tiết" }, { "word": "风", "pinyin": "fēng", "vi": "gió" }, { "word": "雨", "pinyin": "yǔ", "vi": "mưa" }, { "word": "下雨", "pinyin": "xià yǔ", "vi": "trời mưa" }, { "word": "天", "pinyin": "tiān", "vi": "trời; ngày" }
+    ] },
+    { "key": "hsk1-c11-u01-a02-clothes", "position": 2, "caption": "Mặc gì hôm nay?", "captionComplexity": "STANDARD", "expectedNewWordCount": 5, "communicationOutcome": "Nói về quần áo và hành động chuẩn bị cơ bản.", "candidates": [
+      { "word": "穿", "pinyin": "chuān", "vi": "mặc" }, { "word": "衣服", "pinyin": "yī fu", "vi": "quần áo" }, { "word": "新", "pinyin": "xīn", "vi": "mới" }, { "word": "大", "pinyin": "dà", "vi": "to; lớn" }, { "word": "小", "pinyin": "xiǎo", "vi": "nhỏ" }
+    ] },
+    { "key": "hsk1-c11-u01-a03-possible-plan", "position": 3, "caption": "Kế hoạch nếu trời đẹp", "captionComplexity": "STANDARD", "expectedNewWordCount": 5, "communicationOutcome": "Nói dự định và khả năng đơn giản.", "candidates": [
+      { "word": "会", "pinyin": "huì", "vi": "biết; sẽ" }, { "word": "能", "pinyin": "néng", "vi": "có thể" }, { "word": "有", "pinyin": "yǒu", "vi": "có" }, { "word": "在", "pinyin": "zài", "vi": "ở; đang" }, { "word": "不", "pinyin": "bù", "vi": "không" }
+    ] },
+    { "key": "hsk1-c11-u01-a04-change-plan", "position": 4, "caption": "Đổi kế hoạch", "captionComplexity": "STANDARD", "expectedNewWordCount": 5, "communicationOutcome": "Nói không thể đi hoặc chọn phương án khác.", "candidates": [
+      { "word": "没", "pinyin": "méi", "vi": "không có; chưa" }, { "word": "还是", "pinyin": "hái shi", "vi": "hay là; vẫn là" }, { "word": "出", "pinyin": "chū", "vi": "ra ngoài" }, { "word": "出来", "pinyin": "chū lái", "vi": "đi ra; xuất hiện" }, { "word": "干什么", "pinyin": "gàn shén me", "vi": "làm gì" }
+    ] }
+  ],
+  "editorialNotes": ["20 từ mới là mức phù hợp với vốn từ thời tiết HSK 1; các mẫu nói kế hoạch khai thác mạnh nhóm từ ôn C03-C06.", "Không trùng exact word với C01-C10."]
+}

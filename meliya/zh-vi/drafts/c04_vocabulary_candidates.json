@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c04-food-and-drinks",
+  "unitKey": "hsk1-c04-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": {
+    "countRule": "Manual editorial selection by HSK level and caption complexity; review words are excluded.",
+    "selectionMode": "MANUAL_EDITORIAL",
+    "newWordCount": 32
+  },
+  "activities": [
+    {
+      "key": "hsk1-c04-u01-a01-drinks-and-staples",
+      "position": 1,
+      "caption": "Đồ uống và món chính",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Gọi các đồ uống và món ăn quen thuộc.",
+      "candidates": [
+        { "word": "吃", "pinyin": "chī", "vi": "ăn" },
+        { "word": "喝", "pinyin": "hē", "vi": "uống" },
+        { "word": "水", "pinyin": "shuǐ", "vi": "nước" },
+        { "word": "茶", "pinyin": "chá", "vi": "trà" },
+        { "word": "牛奶", "pinyin": "niú nǎi", "vi": "sữa bò" },
+        { "word": "米饭", "pinyin": "mǐ fàn", "vi": "cơm" },
+        { "word": "面包", "pinyin": "miàn bāo", "vi": "bánh mì" },
+        { "word": "面条儿", "pinyin": "miàn tiáor", "vi": "mì sợi" }
+      ]
+    },
+    {
+      "key": "hsk1-c04-u01-a02-food-items",
+      "position": 2,
+      "caption": "Món bạn muốn ăn",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Nói món ăn và sở thích ăn uống đơn giản.",
+      "candidates": [
+        { "word": "鸡蛋", "pinyin": "jī dàn", "vi": "trứng" },
+        { "word": "肉", "pinyin": "ròu", "vi": "thịt" },
+        { "word": "水果", "pinyin": "shuǐ guǒ", "vi": "hoa quả" },
+        { "word": "菜", "pinyin": "cài", "vi": "món ăn; rau" },
+        { "word": "饭", "pinyin": "fàn", "vi": "cơm; bữa ăn" },
+        { "word": "包子", "pinyin": "bāo zi", "vi": "bánh bao" },
+        { "word": "好吃", "pinyin": "hǎo chī", "vi": "ngon" },
+        { "word": "饿", "pinyin": "è", "vi": "đói" }
+      ]
+    },
+    {
+      "key": "hsk1-c04-u01-a03-at-the-restaurant",
+      "position": 3,
+      "caption": "Ở quán ăn",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Gọi món, gọi đồ uống và phản hồi nhu cầu cơ bản tại quán ăn.",
+      "candidates": [
+        { "word": "饭店", "pinyin": "fàn diàn", "vi": "nhà hàng; quán ăn" },
+        { "word": "杯", "pinyin": "bēi", "vi": "cốc; ly (lượng từ)" },
+        { "word": "杯子", "pinyin": "bēi zi", "vi": "cái cốc; ly" },
+        { "word": "要", "pinyin": "yào", "vi": "muốn; cần" },
+        { "word": "一点儿", "pinyin": "yī diǎnr", "vi": "một ít" },
+        { "word": "再", "pinyin": "zài", "vi": "lại; thêm" },
+        { "word": "渴", "pinyin": "kě", "vi": "khát" },
+        { "word": "晚饭", "pinyin": "wǎn fàn", "vi": "bữa tối" }
+      ]
+    },
+    {
+      "key": "hsk1-c04-u01-a04-meals",
+      "position": 4,
+      "caption": "Các bữa trong ngày",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Nói bữa sáng, trưa, tối và một số thói quen ăn uống cơ bản.",
+      "candidates": [
+        { "word": "早饭", "pinyin": "zǎo fàn", "vi": "bữa sáng" },
+        { "word": "午饭", "pinyin": "wǔ fàn", "vi": "bữa trưa" },
+        { "word": "常常", "pinyin": "cháng cháng", "vi": "thường xuyên" },
+        { "word": "白", "pinyin": "bái", "vi": "trắng" },
+        { "word": "非常", "pinyin": "fēi cháng", "vi": "rất; vô cùng" },
+        { "word": "太", "pinyin": "tài", "vi": "quá; rất" },
+        { "word": "少", "pinyin": "shǎo", "vi": "ít" },
+        { "word": "多", "pinyin": "duō", "vi": "nhiều" }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "32 từ mới được chọn thủ công; không trùng exact word với C01-C03.",
+    "Một số từ như 好看 chỉ dùng trong ngữ cảnh đánh giá món hoặc đồ uống, không mở rộng sang category mua sắm."
+  ]
+}

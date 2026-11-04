@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c08-school-and-workplace",
+  "unitKey": "hsk1-c08-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 32 },
+  "activities": [
+    { "key": "hsk1-c08-u01-a01-class", "position": 1, "caption": "Trong lớp học", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói về lớp, bài học và kỳ thi.", "candidates": [
+      { "word": "班", "pinyin": "bān", "vi": "lớp" }, { "word": "课", "pinyin": "kè", "vi": "bài học; tiết học" }, { "word": "课本", "pinyin": "kè běn", "vi": "sách giáo khoa" }, { "word": "课文", "pinyin": "kè wén", "vi": "bài khóa" }, { "word": "上课", "pinyin": "shàng kè", "vi": "vào học" }, { "word": "下课", "pinyin": "xià kè", "vi": "tan học; hết tiết" }, { "word": "考试", "pinyin": "kǎo shì", "vi": "thi cử" }, { "word": "认真", "pinyin": "rèn zhēn", "vi": "chăm chỉ; nghiêm túc" }
+    ] },
+    { "key": "hsk1-c08-u01-a02-education", "position": 2, "caption": "Trường và ngôn ngữ", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói về trường, ngôn ngữ và kiến thức cơ bản.", "candidates": [
+      { "word": "学校", "pinyin": "xué xiào", "vi": "trường học" }, { "word": "学院", "pinyin": "xué yuàn", "vi": "học viện; trường cao đẳng" }, { "word": "小学", "pinyin": "xiǎo xué", "vi": "tiểu học" }, { "word": "中学", "pinyin": "zhōng xué", "vi": "trung học" }, { "word": "教", "pinyin": "jiāo", "vi": "dạy" }, { "word": "知识", "pinyin": "zhī shi", "vi": "kiến thức" }, { "word": "汉字", "pinyin": "hàn zì", "vi": "chữ Hán" }, { "word": "中文", "pinyin": "zhōng wén", "vi": "tiếng Trung" }
+    ] },
+    { "key": "hsk1-c08-u01-a03-study-tools", "position": 3, "caption": "Đồ dùng học tập", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nhận biết dụng cụ và hoạt động học tập thường gặp.", "candidates": [
+      { "word": "汉语", "pinyin": "hàn yǔ", "vi": "tiếng Hán" }, { "word": "外语", "pinyin": "wài yǔ", "vi": "ngoại ngữ" }, { "word": "书包", "pinyin": "shū bāo", "vi": "cặp sách" }, { "word": "本子", "pinyin": "běn zi", "vi": "vở" }, { "word": "字", "pinyin": "zì", "vi": "chữ" }, { "word": "读书", "pinyin": "dú shū", "vi": "đọc sách" }, { "word": "上学", "pinyin": "shàng xué", "vi": "đi học" }, { "word": "放学", "pinyin": "fàng xué", "vi": "tan học" }
+    ] },
+    { "key": "hsk1-c08-u01-a04-communication", "position": 4, "caption": "Hỏi và trả lời", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Hỏi đáp trong lớp hoặc nơi làm việc đơn giản.", "candidates": [
+      { "word": "问", "pinyin": "wèn", "vi": "hỏi" }, { "word": "回答", "pinyin": "huí dá", "vi": "trả lời" }, { "word": "告诉", "pinyin": "gào su", "vi": "nói cho biết" }, { "word": "记", "pinyin": "jì", "vi": "ghi nhớ" }, { "word": "记得", "pinyin": "jì de", "vi": "nhớ" }, { "word": "记住", "pinyin": "jì zhù", "vi": "ghi nhớ kỹ" }, { "word": "明白", "pinyin": "míng bai", "vi": "hiểu rõ" }, { "word": "知道", "pinyin": "zhī dào", "vi": "biết" }
+    ] }
+  ],
+  "editorialNotes": ["32 từ mới; không trùng exact word với C01-C07.", "Từ làm và học tập đã có ở C01-C02 được dùng ở đây làm review ngữ cảnh, không nhập lại vào candidates."]
+}

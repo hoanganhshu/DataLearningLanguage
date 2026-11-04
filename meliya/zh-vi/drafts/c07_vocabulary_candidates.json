@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c07-shopping-and-prices",
+  "unitKey": "hsk1-c07-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 32 },
+  "activities": [
+    { "key": "hsk1-c07-u01-a01-numbers-1", "position": 1, "caption": "Số lượng cơ bản", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Dùng các số cơ bản khi hỏi hoặc trả lời số lượng.", "candidates": [
+      { "word": "一", "pinyin": "yī", "vi": "một" }, { "word": "二", "pinyin": "èr", "vi": "hai" }, { "word": "三", "pinyin": "sān", "vi": "ba" }, { "word": "四", "pinyin": "sì", "vi": "bốn" }, { "word": "五", "pinyin": "wǔ", "vi": "năm" }, { "word": "六", "pinyin": "liù", "vi": "sáu" }, { "word": "七", "pinyin": "qī", "vi": "bảy" }, { "word": "八", "pinyin": "bā", "vi": "tám" }
+    ] },
+    { "key": "hsk1-c07-u01-a02-numbers-2", "position": 2, "caption": "Bao nhiêu tiền?", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Dùng số lượng, đơn vị tiền và câu hỏi về giá.", "candidates": [
+      { "word": "九", "pinyin": "jiǔ", "vi": "chín" }, { "word": "十", "pinyin": "shí", "vi": "mười" }, { "word": "百", "pinyin": "bǎi", "vi": "trăm" }, { "word": "两", "pinyin": "liǎng", "vi": "hai (lượng từ)" }, { "word": "几", "pinyin": "jǐ", "vi": "mấy" }, { "word": "多少", "pinyin": "duō shao", "vi": "bao nhiêu" }, { "word": "钱", "pinyin": "qián", "vi": "tiền" }, { "word": "元", "pinyin": "yuán", "vi": "đồng; tệ" }
+    ] },
+    { "key": "hsk1-c07-u01-a03-shop", "position": 3, "caption": "Trong cửa hàng", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Hỏi đồ cần mua và nói về cửa hàng.", "candidates": [
+      { "word": "商场", "pinyin": "shāng chǎng", "vi": "trung tâm mua sắm" }, { "word": "商店", "pinyin": "shāng diàn", "vi": "cửa hàng" }, { "word": "东西", "pinyin": "dōng xi", "vi": "đồ vật; đồ" }, { "word": "钱包", "pinyin": "qián bāo", "vi": "ví tiền" }, { "word": "贵", "pinyin": "guì", "vi": "đắt" }, { "word": "块", "pinyin": "kuài", "vi": "đồng; miếng" }, { "word": "用", "pinyin": "yòng", "vi": "dùng" }, { "word": "给", "pinyin": "gěi", "vi": "cho; đưa cho" }
+    ] },
+    { "key": "hsk1-c07-u01-a04-buying", "position": 4, "caption": "Chọn và thanh toán", "captionComplexity": "COMPLEX", "expectedNewWordCount": 8, "communicationOutcome": "Thực hiện cuộc mua hàng rất ngắn.", "candidates": [
+      { "word": "找", "pinyin": "zhǎo", "vi": "tìm; trả lại tiền thừa" }, { "word": "找到", "pinyin": "zhǎo dào", "vi": "tìm thấy" }, { "word": "票", "pinyin": "piào", "vi": "vé" }, { "word": "门票", "pinyin": "mén piào", "vi": "vé vào cửa" }, { "word": "别的", "pinyin": "bié de", "vi": "khác" }, { "word": "一些", "pinyin": "yī xiē", "vi": "một vài" }, { "word": "有用", "pinyin": "yǒu yòng", "vi": "hữu ích" }, { "word": "包", "pinyin": "bāo", "vi": "túi; gói" }
+    ] }
+  ],
+  "editorialNotes": ["32 từ mới; không trùng exact word với C01-C06.", "Từ mua đã học ở C02 được dùng làm review trong activity speaking, không được tính là từ mới ở C07."]
+}

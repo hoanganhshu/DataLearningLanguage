@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c10-hobbies-and-leisure",
+  "unitKey": "hsk1-c10-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 24, "reviewWordPolicy": "Prior words such as 电影 and 电视 are review-only in this category." },
+  "activities": [
+    { "key": "hsk1-c10-u01-a01-interests", "position": 1, "caption": "Sở thích của bạn", "captionComplexity": "STANDARD", "expectedNewWordCount": 6, "communicationOutcome": "Hỏi và nói sở thích đơn giản.", "candidates": [
+      { "word": "爱好", "pinyin": "ài hào", "vi": "sở thích" }, { "word": "唱", "pinyin": "chàng", "vi": "hát" }, { "word": "唱歌", "pinyin": "chàng gē", "vi": "hát bài" }, { "word": "歌", "pinyin": "gē", "vi": "bài hát" }, { "word": "打球", "pinyin": "dǎ qiú", "vi": "chơi bóng" }, { "word": "球", "pinyin": "qiú", "vi": "bóng" }
+    ] },
+    { "key": "hsk1-c10-u01-a02-free-time", "position": 2, "caption": "Lúc rảnh bạn làm gì?", "captionComplexity": "STANDARD", "expectedNewWordCount": 6, "communicationOutcome": "Nói hoạt động giải trí và phản ứng tích cực.", "candidates": [
+      { "word": "跑", "pinyin": "pǎo", "vi": "chạy" }, { "word": "玩儿", "pinyin": "wánr", "vi": "chơi" }, { "word": "笑", "pinyin": "xiào", "vi": "cười" }, { "word": "开玩笑", "pinyin": "kāi wán xiào", "vi": "đùa" }, { "word": "好听", "pinyin": "hǎo tīng", "vi": "hay (nghe)" }, { "word": "好玩儿", "pinyin": "hǎo wánr", "vi": "vui; thú vị" }
+    ] },
+    { "key": "hsk1-c10-u01-a03-online", "position": 3, "caption": "Giải trí trực tuyến", "captionComplexity": "STANDARD", "expectedNewWordCount": 6, "communicationOutcome": "Nói cơ bản về Internet và bạn bè trực tuyến.", "candidates": [
+      { "word": "上网", "pinyin": "shàng wǎng", "vi": "lên mạng" }, { "word": "网上", "pinyin": "wǎng shàng", "vi": "trên mạng" }, { "word": "网友", "pinyin": "wǎng yǒu", "vi": "bạn trên mạng" }, { "word": "有名", "pinyin": "yǒu míng", "vi": "nổi tiếng" }, { "word": "看到", "pinyin": "kàn dào", "vi": "nhìn thấy" }, { "word": "听到", "pinyin": "tīng dào", "vi": "nghe thấy" }
+    ] },
+    { "key": "hsk1-c10-u01-a04-preferences", "position": 4, "caption": "Bạn nghĩ sao?", "captionComplexity": "STANDARD", "expectedNewWordCount": 6, "communicationOutcome": "Nêu suy nghĩ, mức độ yêu thích hoặc gợi ý đơn giản.", "candidates": [
+      { "word": "觉得", "pinyin": "jué de", "vi": "cảm thấy; cho rằng" }, { "word": "想", "pinyin": "xiǎng", "vi": "muốn; nghĩ" }, { "word": "最", "pinyin": "zuì", "vi": "nhất" }, { "word": "最好", "pinyin": "zuì hǎo", "vi": "tốt nhất; nên" }, { "word": "好看", "pinyin": "hǎo kàn", "vi": "đẹp; hay để xem" }, { "word": "见", "pinyin": "jiàn", "vi": "gặp; thấy" }
+    ] }
+  ],
+  "editorialNotes": ["24 từ mới; không trùng exact word với C01-C09.", "Các từ phim, tivi, thích đã học trước đó được tái dùng làm review trong kịch bản giao tiếp."]
+}

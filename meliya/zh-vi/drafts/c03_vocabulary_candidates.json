@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c03-time-and-calendar",
+  "unitKey": "hsk1-c03-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": {
+    "countRule": "Manual editorial selection by HSK level and caption complexity; review words are excluded.",
+    "selectionMode": "MANUAL_EDITORIAL",
+    "newWordCount": 32
+  },
+  "activities": [
+    {
+      "key": "hsk1-c03-u01-a01-calendar",
+      "position": 1,
+      "caption": "Ngày nào và thứ mấy?",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Hỏi và trả lời ngày, tháng, năm, thứ trong tuần.",
+      "candidates": [
+        { "word": "星期", "pinyin": "xīng qī", "vi": "tuần; thứ" },
+        { "word": "日期", "pinyin": "rì qī", "vi": "ngày tháng" },
+        { "word": "年", "pinyin": "nián", "vi": "năm" },
+        { "word": "月", "pinyin": "yuè", "vi": "tháng" },
+        { "word": "日", "pinyin": "rì", "vi": "ngày" },
+        { "word": "号", "pinyin": "hào", "vi": "ngày (trong tháng); số" },
+        { "word": "今年", "pinyin": "jīn nián", "vi": "năm nay" },
+        { "word": "明年", "pinyin": "míng nián", "vi": "năm sau" }
+      ]
+    },
+    {
+      "key": "hsk1-c03-u01-a02-past-and-future",
+      "position": 2,
+      "caption": "Trước hay sau?",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Nói về thời điểm trước và sau hiện tại.",
+      "candidates": [
+        { "word": "去年", "pinyin": "qù nián", "vi": "năm ngoái" },
+        { "word": "后天", "pinyin": "hòu tiān", "vi": "ngày kia" },
+        { "word": "前天", "pinyin": "qián tiān", "vi": "hôm kia" },
+        { "word": "白天", "pinyin": "bái tiān", "vi": "ban ngày" },
+        { "word": "晚", "pinyin": "wǎn", "vi": "muộn; tối" },
+        { "word": "半", "pinyin": "bàn", "vi": "một nửa; rưỡi" },
+        { "word": "半年", "pinyin": "bàn nián", "vi": "nửa năm" },
+        { "word": "一会儿", "pinyin": "yī huìr", "vi": "một lát" }
+      ]
+    },
+    {
+      "key": "hsk1-c03-u01-a03-clock-time",
+      "position": 3,
+      "caption": "Mấy giờ rồi?",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Hỏi giờ và nói một khoảng thời gian ngắn.",
+      "candidates": [
+        { "word": "点", "pinyin": "diǎn", "vi": "giờ; điểm" },
+        { "word": "分", "pinyin": "fēn", "vi": "phút" },
+        { "word": "小时", "pinyin": "xiǎo shí", "vi": "giờ (thời lượng)" },
+        { "word": "时间", "pinyin": "shí jiān", "vi": "thời gian" },
+        { "word": "早", "pinyin": "zǎo", "vi": "sớm" },
+        { "word": "先", "pinyin": "xiān", "vi": "trước; đầu tiên" },
+        { "word": "马上", "pinyin": "mǎ shàng", "vi": "ngay lập tức" },
+        { "word": "等", "pinyin": "děng", "vi": "đợi" }
+      ]
+    },
+    {
+      "key": "hsk1-c03-u01-a04-appointment",
+      "position": 4,
+      "caption": "Hẹn gặp nhau",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 8,
+      "communicationOutcome": "Sắp xếp một cuộc gặp hoặc thay đổi kế hoạch đơn giản.",
+      "candidates": [
+        { "word": "准备", "pinyin": "zhǔn bèi", "vi": "chuẩn bị" },
+        { "word": "开会", "pinyin": "kāi huì", "vi": "họp" },
+        { "word": "上次", "pinyin": "shàng cì", "vi": "lần trước" },
+        { "word": "下次", "pinyin": "xià cì", "vi": "lần sau" },
+        { "word": "请假", "pinyin": "qǐng jià", "vi": "xin nghỉ" },
+        { "word": "放假", "pinyin": "fàng jià", "vi": "nghỉ lễ; nghỉ học" },
+        { "word": "休息", "pinyin": "xiū xi", "vi": "nghỉ ngơi" },
+        { "word": "有时候", "pinyin": "yǒu shí hou", "vi": "đôi khi" }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "32 từ mới được chọn thủ công; không trùng exact word với C01-C02.",
+    "Tất cả candidates phải được kiểm tra HSK 3.0 level 1 và resolve dictionary_word_id sau khi duyệt."
+  ]
+}

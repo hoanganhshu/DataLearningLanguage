@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c09-health-and-help",
+  "unitKey": "hsk1-c09-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 24, "reviewWordPolicy": "Use prior-category words in dialogues; never count them as new vocabulary." },
+  "activities": [
+    { "key": "hsk1-c09-u01-a01-feeling-unwell", "position": 1, "caption": "Bạn có khỏe không?", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Nói tình trạng sức khỏe rất cơ bản.", "candidates": [
+      { "word": "病", "pinyin": "bìng", "vi": "bệnh" }, { "word": "病人", "pinyin": "bìng rén", "vi": "người bệnh" }, { "word": "生病", "pinyin": "shēng bìng", "vi": "bị ốm" }, { "word": "看病", "pinyin": "kàn bìng", "vi": "đi khám bệnh" }, { "word": "身体", "pinyin": "shēn tǐ", "vi": "cơ thể; sức khỏe" }, { "word": "身上", "pinyin": "shēn shang", "vi": "trên người" }
+    ] },
+    { "key": "hsk1-c09-u01-a02-body-and-condition", "position": 2, "caption": "Cơ thể và cảm giác", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Mô tả một số cảm giác hoặc bộ phận cơ bản.", "candidates": [
+      { "word": "手", "pinyin": "shǒu", "vi": "tay" }, { "word": "口", "pinyin": "kǒu", "vi": "miệng" }, { "word": "冷", "pinyin": "lěng", "vi": "lạnh" }, { "word": "热", "pinyin": "rè", "vi": "nóng" }, { "word": "累", "pinyin": "lèi", "vi": "mệt" }, { "word": "生气", "pinyin": "shēng qì", "vi": "giận" }
+    ] },
+    { "key": "hsk1-c09-u01-a03-asking-help", "position": 3, "caption": "Nhờ giúp đỡ", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Nhờ hỗ trợ và phản hồi lịch sự cơ bản.", "candidates": [
+      { "word": "帮", "pinyin": "bāng", "vi": "giúp" }, { "word": "帮忙", "pinyin": "bāng máng", "vi": "giúp một tay" }, { "word": "不用", "pinyin": "bú yòng", "vi": "không cần" }, { "word": "没关系", "pinyin": "méi guān xi", "vi": "không sao" }, { "word": "没事儿", "pinyin": "méi shìr", "vi": "không có việc gì; không sao" }, { "word": "坏", "pinyin": "huài", "vi": "xấu; hỏng" }
+    ] },
+    { "key": "hsk1-c09-u01-a04-rest", "position": 4, "caption": "Nghỉ ngơi và liên lạc", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Khuyên hoặc nói về nghỉ ngơi, liên hệ khi cần.", "candidates": [
+      { "word": "睡", "pinyin": "shuì", "vi": "ngủ" }, { "word": "洗", "pinyin": "xǐ", "vi": "rửa; tắm" }, { "word": "电话", "pinyin": "diàn huà", "vi": "điện thoại" }, { "word": "打电话", "pinyin": "dǎ diàn huà", "vi": "gọi điện" }, { "word": "请坐", "pinyin": "qǐng zuò", "vi": "mời ngồi" }, { "word": "请问", "pinyin": "qǐng wèn", "vi": "xin hỏi" }
+    ] }
+  ],
+  "editorialNotes": ["24 từ mới là mức hợp lý cho phạm vi sức khỏe HSK 1; câu hội thoại sẽ tái dùng từ đã học từ C01-C08.", "Không lặp exact word với C01-C08."]
+}

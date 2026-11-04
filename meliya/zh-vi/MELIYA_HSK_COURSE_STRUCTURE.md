@@ -37,7 +37,7 @@ Course: Chinese for Vietnamese speakers
 | --- | --- |
 | C01 — Làm quen và tự giới thiệu | Vocabulary draft created |
 | C02 — Con người và sinh hoạt hằng ngày | Vocabulary draft created |
-| C03–C12 — Mười chủ đề giao tiếp HSK 1 còn lại | Category catalog created; vocabulary drafts pending |
+| C03–C12 — Mười chủ đề giao tiếp HSK 1 còn lại | Vocabulary drafts created; awaiting editorial review |
 
 The full HSK 1 topic catalog is in `drafts/hsk1_category_catalog.json`. It contains 12 categories and keeps the Praktika-like 6-unit / 21-activity rhythm for each category.
 

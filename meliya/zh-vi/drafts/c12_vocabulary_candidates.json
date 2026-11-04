@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk1-c12-social-chat",
+  "unitKey": "hsk1-c12-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [1],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 24, "reviewWordPolicy": "Use C01-C11 topic vocabulary in dialogue; these are only new conversation connectors and question words." },
+  "activities": [
+    { "key": "hsk1-c12-u01-a01-questions", "position": 1, "caption": "Hỏi để tiếp tục cuộc nói chuyện", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Dùng từ để hỏi cơ bản trong hội thoại ngắn.", "candidates": [
+      { "word": "吗", "pinyin": "ma", "vi": "trợ từ nghi vấn" }, { "word": "呢", "pinyin": "ne", "vi": "thì sao; nhỉ" }, { "word": "吧", "pinyin": "ba", "vi": "nhé; nhỉ" }, { "word": "怎么", "pinyin": "zěn me", "vi": "thế nào; làm sao" }, { "word": "哪", "pinyin": "nǎ", "vi": "nào" }, { "word": "哪里", "pinyin": "nǎ lǐ", "vi": "ở đâu" }
+    ] },
+    { "key": "hsk1-c12-u01-a02-this-and-that", "position": 2, "caption": "Cái này hay cái kia?", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Dùng đại từ chỉ định và lựa chọn trong giao tiếp.", "candidates": [
+      { "word": "哪些", "pinyin": "nǎ xiē", "vi": "những cái nào" }, { "word": "那", "pinyin": "nà", "vi": "kia; đó" }, { "word": "那边", "pinyin": "nà bian", "vi": "bên kia" }, { "word": "那儿", "pinyin": "nàr", "vi": "ở kia" }, { "word": "那些", "pinyin": "nà xiē", "vi": "những cái kia" }, { "word": "这", "pinyin": "zhè", "vi": "này; đây" }
+    ] },
+    { "key": "hsk1-c12-u01-a03-here", "position": 3, "caption": "Ở đây và xung quanh", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Duy trì hội thoại bằng từ chỉ nơi chốn và xác nhận.", "candidates": [
+      { "word": "这边", "pinyin": "zhè biān", "vi": "bên này" }, { "word": "这儿", "pinyin": "zhèr", "vi": "ở đây" }, { "word": "这些", "pinyin": "zhè xiē", "vi": "những cái này" }, { "word": "是不是", "pinyin": "shì bú shì", "vi": "có phải không" }, { "word": "对", "pinyin": "duì", "vi": "đúng" }, { "word": "不对", "pinyin": "bú duì", "vi": "không đúng" }
+    ] },
+    { "key": "hsk1-c12-u01-a04-reactions", "position": 4, "caption": "Phản hồi tự nhiên", "captionComplexity": "COMPLEX", "expectedNewWordCount": 6, "communicationOutcome": "Phản hồi và duy trì lượt lời trong cuộc trò chuyện ngắn.", "candidates": [
+      { "word": "错", "pinyin": "cuò", "vi": "sai" }, { "word": "别人", "pinyin": "bié rén", "vi": "người khác" }, { "word": "没什么", "pinyin": "méi shén me", "vi": "không có gì" }, { "word": "真", "pinyin": "zhēn", "vi": "thật; rất" }, { "word": "真的", "pinyin": "zhēn de", "vi": "thật sự" }, { "word": "还有", "pinyin": "hái yǒu", "vi": "còn có; thêm nữa" }
+    ] }
+  ],
+  "editorialNotes": ["24 từ mới; không trùng exact word với C01-C11.", "C12 là category tổng hợp, nên mọi danh từ theo chủ đề trong câu hội thoại đều phải là review word, không được tăng thêm new-word count."]
+}
