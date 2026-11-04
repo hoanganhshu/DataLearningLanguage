@@ -33,7 +33,7 @@
   ],
   "editorialNotes": [
     "Mỗi category có 21 activity theo unitPattern, tương đương 336 activity cho HSK 2 khi hoàn chỉnh.",
-    "Chỉ candidate đã được chọn thủ công, kiểm tra tồn tại trong HSK 3.0 level 2 và duyệt nghĩa mới được import.",
+    "Candidate coverage C02-C16 nằm trong drafts/hsk2_c02_c16_coverage_candidates.json; phải kiểm tra tồn tại trong HSK 3.0 level 2 và duyệt nghĩa trước khi import.",
     "Từ HSK 1 trong hội thoại HSK 2 là review word, không tính vào newWordCount."
   ]
 }
