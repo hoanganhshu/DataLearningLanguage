@@ -7,7 +7,7 @@
   "targetHskLevels": [1],
   "selectionPolicy": {
     "purpose": "Từ đầu vào cho giao tiếp làm quen; không phải danh sách HSK 1 đầy đủ.",
-    "newWordsPerActivity": { "min": 4, "max": 6 },
+    "countRule": "Use course.vocabularyPacing by target HSK level and captionComplexity; all selections are manual.",
     "selectionMode": "MANUAL_EDITORIAL",
     "lookupRule": "Resolve to dictionary_words by simplified word plus pinyin after editorial approval."
   },
@@ -16,6 +16,8 @@
       "key": "c01-u01-a01-greetings",
       "position": 1,
       "caption": "Chào hỏi lịch sự",
+      "captionComplexity": "SIMPLE",
+      "expectedNewWordCount": 8,
       "communicationOutcome": "Chào, cảm ơn và tạm biệt một người mới gặp.",
       "candidates": [
         { "word": "你", "pinyin": "nǐ", "vi": "bạn" },
@@ -23,52 +25,75 @@
         { "word": "好", "pinyin": "hǎo", "vi": "tốt; khỏe" },
         { "word": "请", "pinyin": "qǐng", "vi": "mời; xin vui lòng" },
         { "word": "谢谢", "pinyin": "xiè xie", "vi": "cảm ơn" },
-        { "word": "再见", "pinyin": "zài jiàn", "vi": "tạm biệt" }
+        { "word": "再见", "pinyin": "zài jiàn", "vi": "tạm biệt" },
+        { "word": "对不起", "pinyin": "duì bu qǐ", "vi": "xin lỗi" },
+        { "word": "不客气", "pinyin": "bù kèqi", "vi": "không có gì" }
       ]
     },
     {
       "key": "c01-u01-a02-name-and-identity",
       "position": 2,
       "caption": "Tên và thông tin cơ bản",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
       "communicationOutcome": "Nói tên của mình và nhận ra cách hỏi tên.",
       "candidates": [
         { "word": "我", "pinyin": "wǒ", "vi": "tôi" },
         { "word": "叫", "pinyin": "jiào", "vi": "gọi là; tên là" },
         { "word": "名字", "pinyin": "míng zi", "vi": "tên" },
         { "word": "人", "pinyin": "rén", "vi": "người" },
-        { "word": "中国", "pinyin": "zhōng guó", "vi": "Trung Quốc" }
+        { "word": "中国", "pinyin": "zhōng guó", "vi": "Trung Quốc" },
+        { "word": "什么", "pinyin": "shénme", "vi": "gì; cái gì" },
+        { "word": "谁", "pinyin": "shuí", "vi": "ai" },
+        { "word": "他", "pinyin": "tā", "vi": "anh ấy" },
+        { "word": "她", "pinyin": "tā", "vi": "cô ấy" },
+        { "word": "国家", "pinyin": "guó jiā", "vi": "quốc gia" }
       ]
     },
     {
       "key": "c01-u01-a03-new-friends",
       "position": 3,
       "caption": "Làm quen với bạn mới",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
       "communicationOutcome": "Nói rằng bạn vui khi được làm quen với một người bạn.",
       "candidates": [
         { "word": "朋友", "pinyin": "péng you", "vi": "bạn bè" },
         { "word": "认识", "pinyin": "rènshi", "vi": "quen biết; làm quen" },
         { "word": "高兴", "pinyin": "gāo xìng", "vi": "vui" },
         { "word": "很", "pinyin": "hěn", "vi": "rất" },
-        { "word": "也", "pinyin": "yě", "vi": "cũng" }
+        { "word": "也", "pinyin": "yě", "vi": "cũng" },
+        { "word": "喜欢", "pinyin": "xǐ huan", "vi": "thích" },
+        { "word": "一起", "pinyin": "yī qǐ", "vi": "cùng nhau" },
+        { "word": "同学", "pinyin": "tóng xué", "vi": "bạn học" },
+        { "word": "见面", "pinyin": "jiàn miàn", "vi": "gặp mặt" },
+        { "word": "我们", "pinyin": "wǒ men", "vi": "chúng tôi; chúng ta" }
       ]
     },
     {
       "key": "c01-u01-a04-roles",
       "position": 4,
       "caption": "Vai trò hằng ngày",
+      "captionComplexity": "STANDARD",
+      "expectedNewWordCount": 10,
       "communicationOutcome": "Nói ngắn gọn về việc học hoặc công việc của mình.",
       "candidates": [
         { "word": "学生", "pinyin": "xué shēng", "vi": "học sinh; sinh viên" },
         { "word": "老师", "pinyin": "lǎo shī", "vi": "giáo viên" },
         { "word": "工作", "pinyin": "gōng zuò", "vi": "công việc; làm việc" },
         { "word": "是", "pinyin": "shì", "vi": "là" },
-        { "word": "都", "pinyin": "dōu", "vi": "đều; tất cả" }
+        { "word": "都", "pinyin": "dōu", "vi": "đều; tất cả" },
+        { "word": "医生", "pinyin": "yī shēng", "vi": "bác sĩ" },
+        { "word": "医院", "pinyin": "yī yuàn", "vi": "bệnh viện" },
+        { "word": "大学", "pinyin": "dà xué", "vi": "đại học" },
+        { "word": "大学生", "pinyin": "dà xué shēng", "vi": "sinh viên đại học" },
+        { "word": "上班", "pinyin": "shàng bān", "vi": "đi làm" }
       ]
     }
   ],
   "editorialNotes": [
     "Tất cả candidates đã kiểm tra tồn tại trong local HSK 3.0 level 1 mapping.",
-    "Đây là pacing riêng cho HSK 1; level cao hơn phải chọn thủ công nhiều từ mới hơn theo vocabularyPacing của course blueprint.",
+    "Mỗi caption có captionComplexity và expectedNewWordCount riêng; level cao hơn phải chọn thủ công nhiều từ mới hơn theo vocabularyPacing của course blueprint.",
     "Cụm giao tiếp như 你好 sẽ được dùng trong câu mẫu/SPEAKING; HSK source tách thành các word component nên không xem đó là một vocabulary entry độc lập ở draft này.",
     "Chưa gắn dictionary_word_id để tránh chọn nhầm nghĩa/pinyin đồng hình. ID sẽ được resolve sau khi duyệt danh sách này."
   ]

@@ -10,15 +10,16 @@
     "unitPattern": ["VOCABULARY", "GRAMMAR", "READING", "LISTENING", "SPEAKING", "APPLICATION"],
     "vocabularyPacing": {
       "selectionMode": "MANUAL_EDITORIAL",
-      "rule": "Counts apply only to new words. Previously learned review words are additional and selected for the communication goal.",
+      "rule": "Counts apply only to new words. The final count is selected manually from both highest target HSK level and caption complexity. Previously learned review words are additional.",
+      "captionComplexity": ["SIMPLE", "STANDARD", "COMPLEX"],
       "byHighestTargetHskLevel": {
-        "1": { "newWordsPerVocabularyActivity": { "min": 4, "max": 6 }, "newWordsPerVocabularyUnit": { "min": 20, "max": 24 } },
-        "2": { "newWordsPerVocabularyActivity": { "min": 6, "max": 8 }, "newWordsPerVocabularyUnit": { "min": 24, "max": 32 } },
-        "3": { "newWordsPerVocabularyActivity": { "min": 8, "max": 10 }, "newWordsPerVocabularyUnit": { "min": 32, "max": 40 } },
-        "4": { "newWordsPerVocabularyActivity": { "min": 10, "max": 12 }, "newWordsPerVocabularyUnit": { "min": 40, "max": 48 } },
-        "5": { "newWordsPerVocabularyActivity": { "min": 12, "max": 14 }, "newWordsPerVocabularyUnit": { "min": 48, "max": 56 } },
-        "6": { "newWordsPerVocabularyActivity": { "min": 14, "max": 16 }, "newWordsPerVocabularyUnit": { "min": 56, "max": 64 } },
-        "7-9": { "newWordsPerVocabularyActivity": { "min": 16, "max": 20 }, "newWordsPerVocabularyUnit": { "min": 64, "max": 80 } }
+        "1": { "SIMPLE": { "min": 8, "max": 10 }, "STANDARD": { "min": 10, "max": 12 }, "COMPLEX": { "min": 12, "max": 14 } },
+        "2": { "SIMPLE": { "min": 10, "max": 12 }, "STANDARD": { "min": 12, "max": 15 }, "COMPLEX": { "min": 15, "max": 18 } },
+        "3": { "SIMPLE": { "min": 12, "max": 14 }, "STANDARD": { "min": 14, "max": 18 }, "COMPLEX": { "min": 18, "max": 22 } },
+        "4": { "SIMPLE": { "min": 14, "max": 16 }, "STANDARD": { "min": 16, "max": 20 }, "COMPLEX": { "min": 20, "max": 24 } },
+        "5": { "SIMPLE": { "min": 16, "max": 20 }, "STANDARD": { "min": 20, "max": 24 }, "COMPLEX": { "min": 24, "max": 28 } },
+        "6": { "SIMPLE": { "min": 18, "max": 22 }, "STANDARD": { "min": 22, "max": 26 }, "COMPLEX": { "min": 26, "max": 30 } },
+        "7-9": { "SIMPLE": { "min": 20, "max": 24 }, "STANDARD": { "min": 24, "max": 30 }, "COMPLEX": { "min": 30, "max": 36 } }
       }
     }
   },
