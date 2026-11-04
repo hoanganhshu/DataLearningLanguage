@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "status": "VOCABULARY_SELECTED_PENDING_ACTIVITY_AUTHORING",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 2,
+  "source": "wordlists/exclusive/new/2.json",
+  "summary": {
+    "selectedUniqueWords": 332,
+    "sourceUniqueWords": 750,
+    "sourceCoveragePercent": 44.27,
+    "missingSourceMappings": 0,
+    "exactDuplicateWordsAcrossCategories": 0,
+    "categoriesCompleted": 16
+  },
+  "categoryCounts": [
+    { "key": "hsk2-c01-people-and-relationships", "selectedWords": 32, "sourceFile": "hsk2_c01_vocabulary_candidates.json", "authoringState": "ACTIVITY_SPLIT_DONE" },
+    { "key": "hsk2-c02-routines-and-time", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c03-food-and-service", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c04-shopping-and-money", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c05-city-and-neighborhood", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c06-travel-and-transport", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c07-home-and-community", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c08-work-and-office", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c09-study-and-language", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c10-health-and-care", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c11-weather-and-nature", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c12-sports-and-entertainment", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c13-technology-and-media", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c14-feelings-and-opinions", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c15-social-events", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" },
+    { "key": "hsk2-c16-plans-and-problem-solving", "selectedWords": 20, "sourceFile": "hsk2_c02_c16_coverage_candidates.json", "authoringState": "CATEGORY_SELECTION_DONE" }
+  ],
+  "nextStep": "Tách từng category C02-C16 thành 4 vocabulary activity, bổ sung pinyin, nghĩa Việt, caption và communicationOutcome. Không được đổi candidate word nếu chưa review lại toàn bộ validation."
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "DRAFT_REVIEW",
+  "status": "VOCABULARY_SELECTED_PENDING_ACTIVITY_AUTHORING",
   "hskStandard": "HSK_3_0",
   "hskLevel": 2,
   "intent": "Mở rộng giao tiếp thực tế từ nền HSK 1. Không bắt buộc bao phủ toàn bộ 750 từ HSK 2; ưu tiên các từ tạo được hội thoại, phản hồi và tình huống nói.",
@@ -33,7 +33,7 @@
   ],
   "editorialNotes": [
     "Mỗi category có 21 activity theo unitPattern, tương đương 336 activity cho HSK 2 khi hoàn chỉnh.",
-    "Candidate coverage C02-C16 nằm trong drafts/hsk2_c02_c16_coverage_candidates.json; phải kiểm tra tồn tại trong HSK 3.0 level 2 và duyệt nghĩa trước khi import.",
+    "Candidate coverage C02-C16 nằm trong drafts/hsk2_c02_c16_coverage_candidates.json; validation đã xác nhận 0 từ thiếu mapping và 0 trùng exact word. Chi tiết ở drafts/hsk2_vocabulary_selection_validation.json.",
     "Từ HSK 1 trong hội thoại HSK 2 là review word, không tính vào newWordCount."
   ]
 }
