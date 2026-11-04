@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "hskStandard": "HSK_3_0",
+  "hskLevel": 2,
+  "intent": "Mở rộng giao tiếp thực tế từ nền HSK 1. Không bắt buộc bao phủ toàn bộ 750 từ HSK 2; ưu tiên các từ tạo được hội thoại, phản hồi và tình huống nói.",
+  "targetUniqueNewVocabulary": { "min": 500, "max": 590 },
+  "unitPattern": [
+    { "type": "VOCABULARY", "activityCount": 4 },
+    { "type": "GRAMMAR", "activityCount": 3 },
+    { "type": "READING", "activityCount": 4 },
+    { "type": "LISTENING", "activityCount": 4 },
+    { "type": "SPEAKING", "activityCount": 3 },
+    { "type": "APPLICATION", "activityCount": 3 }
+  ],
+  "categories": [
+    { "key": "hsk2-c01-people-and-relationships", "position": 1, "title": "Con người, mối quan hệ và giới thiệu sâu hơn", "communicationGoal": "Nói về con người, người thân, bạn bè và đặc điểm cơ bản.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": "hsk2_c01_vocabulary_candidates.json" },
+    { "key": "hsk2-c02-routines-and-time", "position": 2, "title": "Thói quen, thời gian và nhịp sống", "communicationGoal": "Nói lịch hằng ngày, tần suất và thời điểm cụ thể hơn.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c03-food-and-service", "position": 3, "title": "Ăn uống, nhà hàng và phục vụ", "communicationGoal": "Gọi món, đánh giá món ăn, yêu cầu phục vụ và xử lý tình huống đơn giản.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 32, "max": 38 }, "vocabularyDraft": null },
+    { "key": "hsk2-c04-shopping-and-money", "position": 4, "title": "Mua sắm, tiền bạc và dịch vụ", "communicationGoal": "So sánh giá, chọn đồ, thanh toán và hỏi dịch vụ cơ bản.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null },
+    { "key": "hsk2-c05-city-and-neighborhood", "position": 5, "title": "Thành phố, địa điểm và khu phố", "communicationGoal": "Mô tả nơi chốn, hỏi đường và nói về khu vực xung quanh.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 32, "max": 38 }, "vocabularyDraft": null },
+    { "key": "hsk2-c06-travel-and-transport", "position": 6, "title": "Di chuyển, du lịch và hành trình", "communicationGoal": "Lên kế hoạch di chuyển, đi du lịch và xử lý hành trình đơn giản.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null },
+    { "key": "hsk2-c07-home-and-community", "position": 7, "title": "Nhà ở, hàng xóm và đời sống cộng đồng", "communicationGoal": "Nói về nhà ở, thuê nhà, khu vực sống và những việc gần nhà.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c08-work-and-office", "position": 8, "title": "Công việc, văn phòng và đồng nghiệp", "communicationGoal": "Mô tả nơi làm việc, nhiệm vụ, đồng nghiệp và trao đổi công việc cơ bản.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null },
+    { "key": "hsk2-c09-study-and-language", "position": 9, "title": "Học tập, ngôn ngữ và tiến bộ", "communicationGoal": "Nói về việc học, kỹ năng ngôn ngữ, lớp học và mục tiêu cải thiện.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null },
+    { "key": "hsk2-c10-health-and-care", "position": 10, "title": "Sức khỏe, chăm sóc và lời khuyên", "communicationGoal": "Nói triệu chứng, thăm khám, chăm sóc sức khỏe và lời khuyên cơ bản.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c11-weather-and-nature", "position": 11, "title": "Thời tiết, mùa và thiên nhiên", "communicationGoal": "Mô tả thời tiết, mùa, cảnh quan và ảnh hưởng tới kế hoạch.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 28, "max": 34 }, "vocabularyDraft": null },
+    { "key": "hsk2-c12-sports-and-entertainment", "position": 12, "title": "Thể thao, giải trí và sự kiện", "communicationGoal": "Mời, tham gia hoặc nói ý kiến về thể thao, chương trình và hoạt động vui chơi.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c13-technology-and-media", "position": 13, "title": "Công nghệ, tin tức và truyền thông", "communicationGoal": "Dùng điện thoại, máy tính, tin nhắn và trao đổi thông tin.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c14-feelings-and-opinions", "position": 14, "title": "Cảm xúc, ý kiến và thảo luận", "communicationGoal": "Nêu cảm xúc, quan điểm, đồng ý hoặc không đồng ý một cách đơn giản.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null },
+    { "key": "hsk2-c15-social-events", "position": 15, "title": "Lời mời, ngày lễ và giao tiếp xã hội", "communicationGoal": "Mời, cảm ơn, chúc mừng và giao tiếp trong các sự kiện quen thuộc.", "captionComplexity": "STANDARD", "targetNewVocabulary": { "min": 30, "max": 36 }, "vocabularyDraft": null },
+    { "key": "hsk2-c16-plans-and-problem-solving", "position": 16, "title": "Kế hoạch, mục tiêu và xử lý vấn đề", "communicationGoal": "Bàn kế hoạch, giải thích lý do và xử lý vấn đề đơn giản trong hội thoại.", "captionComplexity": "COMPLEX", "targetNewVocabulary": { "min": 34, "max": 40 }, "vocabularyDraft": null }
+  ],
+  "editorialNotes": [
+    "Mỗi category có 21 activity theo unitPattern, tương đương 336 activity cho HSK 2 khi hoàn chỉnh.",
+    "Chỉ candidate đã được chọn thủ công, kiểm tra tồn tại trong HSK 3.0 level 2 và duyệt nghĩa mới được import.",
+    "Từ HSK 1 trong hội thoại HSK 2 là review word, không tính vào newWordCount."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "status": "DRAFT_REVIEW",
+  "categoryKey": "hsk2-c01-people-and-relationships",
+  "unitKey": "hsk2-c01-u01-vocabulary",
+  "targetHskStandard": "HSK_3_0",
+  "targetHskLevels": [2],
+  "selectionPolicy": { "selectionMode": "MANUAL_EDITORIAL", "newWordCount": 32, "reviewWordPolicy": "HSK 1 words are review-only and excluded from this count." },
+  "activities": [
+    { "key": "hsk2-c01-u01-a01-family-and-people", "position": 1, "caption": "Người thân và những người xung quanh", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói chi tiết hơn về người thân và các nhóm người quen.", "candidates": [
+      { "word": "家庭", "pinyin": "jiā tíng", "vi": "gia đình" }, { "word": "家长", "pinyin": "jiā zhǎng", "vi": "phụ huynh" }, { "word": "全家", "pinyin": "quán jiā", "vi": "cả gia đình" }, { "word": "大人", "pinyin": "dà ren", "vi": "người lớn" }, { "word": "青年", "pinyin": "qīng nián", "vi": "thanh niên" }, { "word": "老年", "pinyin": "lǎo nián", "vi": "tuổi già; người cao tuổi" }, { "word": "客人", "pinyin": "kè rén", "vi": "khách" }, { "word": "主人", "pinyin": "zhǔ rén", "vi": "chủ nhà; chủ nhân" }
+    ] },
+    { "key": "hsk2-c01-u01-a02-friends-and-love", "position": 2, "caption": "Bạn bè và tình cảm", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Nói về bạn bè, tình cảm và mối quan hệ cơ bản.", "candidates": [
+      { "word": "爱情", "pinyin": "ài qíng", "vi": "tình yêu" }, { "word": "爱人", "pinyin": "ài ren", "vi": "vợ; chồng; người yêu" }, { "word": "老朋友", "pinyin": "lǎo péng you", "vi": "bạn cũ" }, { "word": "交朋友", "pinyin": "jiāo péng you", "vi": "kết bạn" }, { "word": "欢迎", "pinyin": "huān yíng", "vi": "chào mừng" }, { "word": "友好", "pinyin": "yǒu hǎo", "vi": "thân thiện" }, { "word": "关心", "pinyin": "guān xīn", "vi": "quan tâm" }, { "word": "照顾", "pinyin": "zhào gu", "vi": "chăm sóc" }
+    ] },
+    { "key": "hsk2-c01-u01-a03-appearance", "position": 3, "caption": "Ngoại hình và độ tuổi", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Mô tả ngoại hình và độ tuổi một cách lịch sự.", "candidates": [
+      { "word": "年轻", "pinyin": "nián qīng", "vi": "trẻ" }, { "word": "个子", "pinyin": "gè zi", "vi": "dáng người; chiều cao" }, { "word": "脸", "pinyin": "liǎn", "vi": "mặt" }, { "word": "头发", "pinyin": "tóu fa", "vi": "tóc" }, { "word": "漂亮", "pinyin": "piào liang", "vi": "đẹp" }, { "word": "可爱", "pinyin": "kě ài", "vi": "đáng yêu" }, { "word": "样子", "pinyin": "yàng zi", "vi": "vẻ ngoài; dáng vẻ" }, { "word": "长大", "pinyin": "zhǎng dà", "vi": "lớn lên" }
+    ] },
+    { "key": "hsk2-c01-u01-a04-personal-story", "position": 4, "caption": "Kể về bản thân", "captionComplexity": "STANDARD", "expectedNewWordCount": 8, "communicationOutcome": "Giới thiệu sâu hơn về tên, quê quán và câu chuyện cá nhân ngắn.", "candidates": [
+      { "word": "姓名", "pinyin": "xìng míng", "vi": "họ tên" }, { "word": "来自", "pinyin": "lái zì", "vi": "đến từ" }, { "word": "出生", "pinyin": "chū shēng", "vi": "sinh ra" }, { "word": "从小", "pinyin": "cóng xiǎo", "vi": "từ nhỏ" }, { "word": "自己", "pinyin": "zì jǐ", "vi": "bản thân" }, { "word": "人们", "pinyin": "rén men", "vi": "mọi người" }, { "word": "大家", "pinyin": "dà jiā", "vi": "mọi người" }, { "word": "热情", "pinyin": "rè qíng", "vi": "nồng nhiệt" }
+    ] }
+  ],
+  "editorialNotes": ["32 từ mới được chọn thủ công theo C01 HSK 2.", "Tất cả candidates cần kiểm tra mapping HSK 2 trước import; từ HSK 1 chỉ dùng làm review trong kịch bản."]
+}

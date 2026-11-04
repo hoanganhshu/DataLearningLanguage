@@ -41,4 +41,6 @@ Course: Chinese for Vietnamese speakers
 
 The full HSK 1 topic catalog is in `drafts/hsk1_category_catalog.json`. It contains 12 categories and keeps the Praktika-like 6-unit / 21-activity rhythm for each category.
 
+HSK 2 starts from `drafts/hsk2_category_catalog.json`: 16 categories, a 500–590 new-word budget, and the same 6-unit / 21-activity rhythm. Its vocabulary candidates are drafted separately and must not count HSK 1 review words as new.
+
 The earlier `drafts/course_blueprint.json` is an exploratory topic list only. This document overrides it for hierarchy and level assignment; a new HSK-level category catalog will replace that exploratory list before any curriculum import.
